@@ -1,0 +1,2251 @@
+waste,unit,geo,time_period,obs_value
+Packaging,RT,AT,2009,66.9
+Packaging,RT,AT,2010,66.6
+Packaging,RT,AT,2011,65.8
+Packaging,RT,AT,2012,65.9
+Packaging,RT,AT,2013,66.6
+Packaging,RT,AT,2014,66.6
+Packaging,RT,AT,2015,67.1
+Packaging,RT,AT,2016,66.8
+Packaging,RT,AT,2017,65.6
+Packaging,RT,AT,2018,65.5
+Packaging,RT,AT,2019,65.4
+Packaging,RT,AT,2020,63.7
+Packaging,RT,BE,2009,79.1
+Packaging,RT,BE,2010,79.8
+Packaging,RT,BE,2011,80.2
+Packaging,RT,BE,2012,80.3
+Packaging,RT,BE,2013,78.7
+Packaging,RT,BE,2014,81.3
+Packaging,RT,BE,2015,81.5
+Packaging,RT,BE,2016,81.9
+Packaging,RT,BE,2017,83.8
+Packaging,RT,BE,2018,85.3
+Packaging,RT,BE,2019,83.5
+Packaging,RT,BE,2020,79.7
+Packaging,RT,BG,2009,45.9
+Packaging,RT,BG,2010,61.6
+Packaging,RT,BG,2011,65.1
+Packaging,RT,BG,2012,66.5
+Packaging,RT,BG,2013,65.7
+Packaging,RT,BG,2014,62.0
+Packaging,RT,BG,2015,64.1
+Packaging,RT,BG,2016,63.8
+Packaging,RT,BG,2017,65.6
+Packaging,RT,BG,2018,60.4
+Packaging,RT,BG,2019,61.2
+Packaging,RT,CY,2009,42.2
+Packaging,RT,CY,2010,50.0
+Packaging,RT,CY,2011,52.0
+Packaging,RT,CY,2012,55.3
+Packaging,RT,CY,2013,56.6
+Packaging,RT,CY,2014,58.7
+Packaging,RT,CY,2015,59.8
+Packaging,RT,CY,2016,64.6
+Packaging,RT,CY,2017,66.2
+Packaging,RT,CY,2018,70.2
+Packaging,RT,CY,2019,66.8
+Packaging,RT,CY,2020,59.9
+Packaging,RT,CZ,2009,68.8
+Packaging,RT,CZ,2010,70.0
+Packaging,RT,CZ,2011,69.7
+Packaging,RT,CZ,2012,69.9
+Packaging,RT,CZ,2013,69.9
+Packaging,RT,CZ,2014,73.0
+Packaging,RT,CZ,2015,74.3
+Packaging,RT,CZ,2016,75.3
+Packaging,RT,CZ,2017,72.3
+Packaging,RT,CZ,2018,69.6
+Packaging,RT,CZ,2019,71.2
+Packaging,RT,CZ,2020,67.9
+Packaging,RT,DE,2009,73.5
+Packaging,RT,DE,2010,72.7
+Packaging,RT,DE,2011,71.8
+Packaging,RT,DE,2012,71.3
+Packaging,RT,DE,2013,71.8
+Packaging,RT,DE,2014,71.4
+Packaging,RT,DE,2015,69.3
+Packaging,RT,DE,2016,70.7
+Packaging,RT,DE,2017,69.9
+Packaging,RT,DE,2018,68.5
+Packaging,RT,DE,2019,63.2
+Packaging,RT,DE,2020,68.1
+Packaging,RT,DK,2009,84.0
+Packaging,RT,DK,2010,84.0
+Packaging,RT,DK,2011,54.3
+Packaging,RT,DK,2012,61.6
+Packaging,RT,DK,2013,69.8
+Packaging,RT,DK,2014,69.8
+Packaging,RT,DK,2015,73.9
+Packaging,RT,DK,2016,79.0
+Packaging,RT,DK,2017,71.5
+Packaging,RT,DK,2018,70.1
+Packaging,RT,DK,2019,70.4
+Packaging,RT,DK,2020,64.0
+Packaging,RT,EE,2009,57.2
+Packaging,RT,EE,2010,56.1
+Packaging,RT,EE,2011,62.9
+Packaging,RT,EE,2012,61.3
+Packaging,RT,EE,2013,58.4
+Packaging,RT,EE,2014,60.3
+Packaging,RT,EE,2015,59.0
+Packaging,RT,EE,2016,56.0
+Packaging,RT,EE,2017,53.5
+Packaging,RT,EE,2018,60.4
+Packaging,RT,EE,2019,66.2
+Packaging,RT,EE,2020,71.4
+Packaging,RT,EL,2009,52.3
+Packaging,RT,EL,2010,58.7
+Packaging,RT,EL,2011,62.1
+Packaging,RT,EL,2012,58.6
+Packaging,RT,EL,2013,52.4
+Packaging,RT,EL,2014,53.8
+Packaging,RT,EL,2015,60.3
+Packaging,RT,EL,2016,66.1
+Packaging,RT,EL,2017,68.6
+Packaging,RT,EL,2018,63.6
+Packaging,RT,EL,2019,60.1
+Packaging,RT,ES,2009,60.3
+Packaging,RT,ES,2010,61.9
+Packaging,RT,ES,2011,63.9
+Packaging,RT,ES,2012,65.5
+Packaging,RT,ES,2013,66.6
+Packaging,RT,ES,2014,68.7
+Packaging,RT,ES,2015,68.4
+Packaging,RT,ES,2016,70.3
+Packaging,RT,ES,2017,68.5
+Packaging,RT,ES,2018,68.8
+Packaging,RT,ES,2019,69.6
+Packaging,RT,ES,2020,68.3
+Packaging,RT,EU27_2020,2009,62.6
+Packaging,RT,EU27_2020,2010,64.0
+Packaging,RT,EU27_2020,2011,64.2
+Packaging,RT,EU27_2020,2012,65.2
+Packaging,RT,EU27_2020,2013,65.4
+Packaging,RT,EU27_2020,2014,66.5
+Packaging,RT,EU27_2020,2015,66.6
+Packaging,RT,EU27_2020,2016,67.6
+Packaging,RT,EU27_2020,2017,67.5
+Packaging,RT,EU27_2020,2018,65.6
+Packaging,RT,EU27_2020,2019,64.6
+Packaging,RT,EU27_2020,2020,64.0
+Packaging,RT,FI,2009,55.5
+Packaging,RT,FI,2010,55.4
+Packaging,RT,FI,2011,58.7
+Packaging,RT,FI,2012,59.3
+Packaging,RT,FI,2013,58.0
+Packaging,RT,FI,2014,57.4
+Packaging,RT,FI,2015,60.9
+Packaging,RT,FI,2016,64.7
+Packaging,RT,FI,2017,65.2
+Packaging,RT,FI,2018,70.2
+Packaging,RT,FI,2019,70.6
+Packaging,RT,FI,2020,73.2
+Packaging,RT,FR,2009,56.4
+Packaging,RT,FR,2010,61.1
+Packaging,RT,FR,2011,61.3
+Packaging,RT,FR,2012,64.9
+Packaging,RT,FR,2013,66.4
+Packaging,RT,FR,2014,65.2
+Packaging,RT,FR,2015,65.5
+Packaging,RT,FR,2016,66.0
+Packaging,RT,FR,2017,68.1
+Packaging,RT,FR,2018,63.5
+Packaging,RT,FR,2019,65.6
+Packaging,RT,FR,2020,60.3
+Packaging,RT,HR,2012,59.7
+Packaging,RT,HR,2013,58.8
+Packaging,RT,HR,2014,52.7
+Packaging,RT,HR,2015,60.1
+Packaging,RT,HR,2016,54.7
+Packaging,RT,HR,2017,53.3
+Packaging,RT,HR,2018,58.4
+Packaging,RT,HR,2019,48.9
+Packaging,RT,HR,2020,54.2
+Packaging,RT,HU,2009,51.1
+Packaging,RT,HU,2010,58.7
+Packaging,RT,HU,2011,59.3
+Packaging,RT,HU,2012,48.5
+Packaging,RT,HU,2013,49.2
+Packaging,RT,HU,2014,48.4
+Packaging,RT,HU,2015,50.1
+Packaging,RT,HU,2016,49.7
+Packaging,RT,HU,2017,49.7
+Packaging,RT,HU,2018,46.1
+Packaging,RT,HU,2019,47.0
+Packaging,RT,HU,2020,52.4
+Packaging,RT,IE,2009,64.9
+Packaging,RT,IE,2010,66.2
+Packaging,RT,IE,2011,70.9
+Packaging,RT,IE,2012,74.0
+Packaging,RT,IE,2013,70.2
+Packaging,RT,IE,2014,68.3
+Packaging,RT,IE,2015,67.5
+Packaging,RT,IE,2016,67.0
+Packaging,RT,IE,2017,65.6
+Packaging,RT,IE,2018,63.9
+Packaging,RT,IE,2019,62.5
+Packaging,RT,IE,2020,62.4
+Packaging,RT,IS,2010,33.9
+Packaging,RT,IS,2011,44.0
+Packaging,RT,IS,2012,40.7
+Packaging,RT,IS,2013,42.9
+Packaging,RT,IS,2014,42.8
+Packaging,RT,IS,2015,47.4
+Packaging,RT,IS,2016,47.2
+Packaging,RT,IS,2017,44.4
+Packaging,RT,IS,2018,51.2
+Packaging,RT,IS,2019,46.3
+Packaging,RT,IS,2020,57.0
+Packaging,RT,IT,2009,64.0
+Packaging,RT,IT,2010,64.4
+Packaging,RT,IT,2011,64.5
+Packaging,RT,IT,2012,66.6
+Packaging,RT,IT,2013,66.7
+Packaging,RT,IT,2014,65.4
+Packaging,RT,IT,2015,66.8
+Packaging,RT,IT,2016,66.9
+Packaging,RT,IT,2017,67.1
+Packaging,RT,IT,2018,68.3
+Packaging,RT,IT,2019,69.6
+Packaging,RT,IT,2020,72.8
+Packaging,RT,LI,2009,50.0
+Packaging,RT,LI,2010,45.9
+Packaging,RT,LI,2011,48.7
+Packaging,RT,LI,2012,44.3
+Packaging,RT,LI,2013,50.3
+Packaging,RT,LI,2014,51.9
+Packaging,RT,LI,2015,66.1
+Packaging,RT,LI,2016,65.8
+Packaging,RT,LI,2017,66.7
+Packaging,RT,LI,2018,68.0
+Packaging,RT,LI,2019,70.0
+Packaging,RT,LI,2020,72.1
+Packaging,RT,LT,2009,57.7
+Packaging,RT,LT,2010,60.4
+Packaging,RT,LT,2011,62.2
+Packaging,RT,LT,2012,62.2
+Packaging,RT,LT,2013,53.5
+Packaging,RT,LT,2014,57.7
+Packaging,RT,LT,2015,59.8
+Packaging,RT,LT,2016,69.5
+Packaging,RT,LT,2017,61.8
+Packaging,RT,LT,2018,60.7
+Packaging,RT,LT,2019,61.9
+Packaging,RT,LT,2020,61.8
+Packaging,RT,LU,2009,61.0
+Packaging,RT,LU,2010,66.0
+Packaging,RT,LU,2011,66.0
+Packaging,RT,LU,2012,62.5
+Packaging,RT,LU,2013,62.8
+Packaging,RT,LU,2014,66.0
+Packaging,RT,LU,2015,70.0
+Packaging,RT,LU,2016,70.3
+Packaging,RT,LU,2017,69.7
+Packaging,RT,LU,2018,70.9
+Packaging,RT,LU,2019,71.5
+Packaging,RT,LU,2020,71.9
+Packaging,RT,LV,2009,44.9
+Packaging,RT,LV,2010,48.9
+Packaging,RT,LV,2011,50.9
+Packaging,RT,LV,2012,51.1
+Packaging,RT,LV,2013,51.0
+Packaging,RT,LV,2014,54.9
+Packaging,RT,LV,2015,53.9
+Packaging,RT,LV,2016,57.7
+Packaging,RT,LV,2017,58.7
+Packaging,RT,LV,2018,55.8
+Packaging,RT,LV,2019,62.4
+Packaging,RT,LV,2020,61.4
+Packaging,RT,MT,2009,36.0
+Packaging,RT,MT,2010,28.5
+Packaging,RT,MT,2011,42.3
+Packaging,RT,MT,2012,46.6
+Packaging,RT,MT,2013,38.1
+Packaging,RT,MT,2014,41.1
+Packaging,RT,MT,2015,37.1
+Packaging,RT,MT,2016,39.7
+Packaging,RT,MT,2017,35.6
+Packaging,RT,MT,2018,35.7
+Packaging,RT,MT,2019,33.7
+Packaging,RT,MT,2020,40.0
+Packaging,RT,NL,2009,74.9
+Packaging,RT,NL,2010,73.9
+Packaging,RT,NL,2011,71.9
+Packaging,RT,NL,2012,69.3
+Packaging,RT,NL,2013,70.4
+Packaging,RT,NL,2014,70.5
+Packaging,RT,NL,2015,71.7
+Packaging,RT,NL,2016,72.6
+Packaging,RT,NL,2017,78.1
+Packaging,RT,NL,2018,79.4
+Packaging,RT,NL,2019,80.7
+Packaging,RT,NL,2020,76.5
+Packaging,RT,NO,2009,53.1
+Packaging,RT,NO,2010,56.7
+Packaging,RT,NO,2011,57.5
+Packaging,RT,NO,2012,55.9
+Packaging,RT,NO,2013,54.5
+Packaging,RT,NO,2014,55.7
+Packaging,RT,NO,2015,55.1
+Packaging,RT,NO,2016,56.3
+Packaging,RT,NO,2017,54.5
+Packaging,RT,NO,2018,52.9
+Packaging,RT,NO,2019,53.9
+Packaging,RT,NO,2020,52.5
+Packaging,RT,PL,2009,36.8
+Packaging,RT,PL,2010,38.9
+Packaging,RT,PL,2011,41.2
+Packaging,RT,PL,2012,41.4
+Packaging,RT,PL,2013,36.1
+Packaging,RT,PL,2014,55.4
+Packaging,RT,PL,2015,57.6
+Packaging,RT,PL,2016,58.0
+Packaging,RT,PL,2017,56.7
+Packaging,RT,PL,2018,58.7
+Packaging,RT,PL,2019,55.5
+Packaging,RT,PT,2009,59.9
+Packaging,RT,PT,2010,55.5
+Packaging,RT,PT,2011,58.4
+Packaging,RT,PT,2012,56.9
+Packaging,RT,PT,2013,61.5
+Packaging,RT,PT,2014,61.0
+Packaging,RT,PT,2015,57.1
+Packaging,RT,PT,2016,60.9
+Packaging,RT,PT,2017,55.3
+Packaging,RT,PT,2018,57.9
+Packaging,RT,PT,2019,62.8
+Packaging,RT,PT,2020,59.5
+Packaging,RT,RO,2009,40.5
+Packaging,RT,RO,2010,43.4
+Packaging,RT,RO,2011,50.0
+Packaging,RT,RO,2012,56.8
+Packaging,RT,RO,2013,52.8
+Packaging,RT,RO,2014,54.8
+Packaging,RT,RO,2015,55.9
+Packaging,RT,RO,2016,60.4
+Packaging,RT,RO,2017,60.4
+Packaging,RT,RO,2018,57.9
+Packaging,RT,RO,2019,44.6
+Packaging,RT,RO,2020,39.9
+Packaging,RT,SE,2009,58.9
+Packaging,RT,SE,2010,69.2
+Packaging,RT,SE,2011,71.5
+Packaging,RT,SE,2012,69.6
+Packaging,RT,SE,2013,71.9
+Packaging,RT,SE,2014,70.5
+Packaging,RT,SE,2015,71.8
+Packaging,RT,SE,2016,68.2
+Packaging,RT,SE,2017,71.7
+Packaging,RT,SE,2018,65.0
+Packaging,RT,SE,2019,63.6
+Packaging,RT,SE,2020,60.9
+Packaging,RT,SI,2009,49.6
+Packaging,RT,SI,2010,61.0
+Packaging,RT,SI,2011,63.6
+Packaging,RT,SI,2012,66.9
+Packaging,RT,SI,2013,69.0
+Packaging,RT,SI,2014,70.4
+Packaging,RT,SI,2015,67.0
+Packaging,RT,SI,2016,69.4
+Packaging,RT,SI,2017,70.1
+Packaging,RT,SI,2018,68.0
+Packaging,RT,SI,2019,67.1
+Packaging,RT,SI,2020,67.9
+Packaging,RT,SK,2009,59.9
+Packaging,RT,SK,2010,45.7
+Packaging,RT,SK,2011,62.4
+Packaging,RT,SK,2012,68.1
+Packaging,RT,SK,2013,65.9
+Packaging,RT,SK,2014,65.4
+Packaging,RT,SK,2015,64.3
+Packaging,RT,SK,2016,65.8
+Packaging,RT,SK,2017,65.7
+Packaging,RT,SK,2018,66.6
+Packaging,RT,SK,2019,67.5
+Packaging,RT,SK,2020,70.8
+Packaging,RT,UK,2009,61.8
+Packaging,RT,UK,2010,60.7
+Packaging,RT,UK,2011,60.8
+Packaging,RT,UK,2012,61.4
+Packaging,RT,UK,2013,64.6
+Packaging,RT,UK,2014,59.2
+Packaging,RT,UK,2015,60.6
+Packaging,RT,UK,2016,64.7
+Packaging,RT,UK,2017,63.9
+Packaging,RT,UK,2018,62.1
+Paper and cardboard,RT,AT,2009,84.8
+Paper and cardboard,RT,AT,2010,84.5
+Paper and cardboard,RT,AT,2011,84.5
+Paper and cardboard,RT,AT,2012,84.9
+Paper and cardboard,RT,AT,2013,84.3
+Paper and cardboard,RT,AT,2014,84.9
+Paper and cardboard,RT,AT,2015,84.9
+Paper and cardboard,RT,AT,2016,84.9
+Paper and cardboard,RT,AT,2017,83.5
+Paper and cardboard,RT,AT,2018,84.2
+Paper and cardboard,RT,AT,2019,84.7
+Paper and cardboard,RT,AT,2020,80.0
+Paper and cardboard,RT,BE,2009,88.0
+Paper and cardboard,RT,BE,2010,89.8
+Paper and cardboard,RT,BE,2011,90.4
+Paper and cardboard,RT,BE,2012,89.8
+Paper and cardboard,RT,BE,2013,89.1
+Paper and cardboard,RT,BE,2014,90.6
+Paper and cardboard,RT,BE,2015,90.7
+Paper and cardboard,RT,BE,2016,89.4
+Paper and cardboard,RT,BE,2017,92.9
+Paper and cardboard,RT,BE,2018,95.6
+Paper and cardboard,RT,BE,2019,92.3
+Paper and cardboard,RT,BE,2020,89.4
+Paper and cardboard,RT,BG,2009,67.3
+Paper and cardboard,RT,BG,2010,81.9
+Paper and cardboard,RT,BG,2011,98.1
+Paper and cardboard,RT,BG,2012,94.2
+Paper and cardboard,RT,BG,2013,88.8
+Paper and cardboard,RT,BG,2014,70.1
+Paper and cardboard,RT,BG,2015,78.7
+Paper and cardboard,RT,BG,2016,80.1
+Paper and cardboard,RT,BG,2017,79.6
+Paper and cardboard,RT,BG,2018,63.3
+Paper and cardboard,RT,BG,2019,93.9
+Paper and cardboard,RT,CY,2009,78.9
+Paper and cardboard,RT,CY,2010,83.4
+Paper and cardboard,RT,CY,2011,88.3
+Paper and cardboard,RT,CY,2012,88.9
+Paper and cardboard,RT,CY,2013,97.3
+Paper and cardboard,RT,CY,2014,96.7
+Paper and cardboard,RT,CY,2015,96.6
+Paper and cardboard,RT,CY,2016,99.7
+Paper and cardboard,RT,CY,2017,93.3
+Paper and cardboard,RT,CY,2018,97.9
+Paper and cardboard,RT,CY,2019,99.5
+Paper and cardboard,RT,CY,2020,82.9
+Paper and cardboard,RT,CZ,2009,93.9
+Paper and cardboard,RT,CZ,2010,93.5
+Paper and cardboard,RT,CZ,2011,90.5
+Paper and cardboard,RT,CZ,2012,85.9
+Paper and cardboard,RT,CZ,2013,87.6
+Paper and cardboard,RT,CZ,2014,88.6
+Paper and cardboard,RT,CZ,2015,90.1
+Paper and cardboard,RT,CZ,2016,93.7
+Paper and cardboard,RT,CZ,2017,90.2
+Paper and cardboard,RT,CZ,2018,85.6
+Paper and cardboard,RT,CZ,2019,88.2
+Paper and cardboard,RT,CZ,2020,87.5
+Paper and cardboard,RT,DE,2009,91.1
+Paper and cardboard,RT,DE,2010,90.2
+Paper and cardboard,RT,DE,2011,88.0
+Paper and cardboard,RT,DE,2012,87.6
+Paper and cardboard,RT,DE,2013,88.2
+Paper and cardboard,RT,DE,2014,87.3
+Paper and cardboard,RT,DE,2015,85.7
+Paper and cardboard,RT,DE,2016,88.7
+Paper and cardboard,RT,DE,2017,87.6
+Paper and cardboard,RT,DE,2018,86.8
+Paper and cardboard,RT,DE,2019,80.6
+Paper and cardboard,RT,DE,2020,84.2
+Paper and cardboard,RT,DK,2009,93.5
+Paper and cardboard,RT,DK,2010,93.5
+Paper and cardboard,RT,DK,2011,63.8
+Paper and cardboard,RT,DK,2012,76.5
+Paper and cardboard,RT,DK,2013,85.4
+Paper and cardboard,RT,DK,2014,91.8
+Paper and cardboard,RT,DK,2015,95.3
+Paper and cardboard,RT,DK,2016,97.7
+Paper and cardboard,RT,DK,2017,81.9
+Paper and cardboard,RT,DK,2018,99.7
+Paper and cardboard,RT,DK,2019,99.7
+Paper and cardboard,RT,DK,2020,69.3
+Paper and cardboard,RT,EE,2009,69.1
+Paper and cardboard,RT,EE,2010,82.9
+Paper and cardboard,RT,EE,2011,79.1
+Paper and cardboard,RT,EE,2012,77.2
+Paper and cardboard,RT,EE,2013,75.5
+Paper and cardboard,RT,EE,2014,74.2
+Paper and cardboard,RT,EE,2015,76.3
+Paper and cardboard,RT,EE,2016,79.0
+Paper and cardboard,RT,EE,2017,76.9
+Paper and cardboard,RT,EE,2018,86.1
+Paper and cardboard,RT,EE,2019,85.9
+Paper and cardboard,RT,EE,2020,93.3
+Paper and cardboard,RT,EL,2009,83.0
+Paper and cardboard,RT,EL,2010,94.1
+Paper and cardboard,RT,EL,2011,91.9
+Paper and cardboard,RT,EL,2012,83.6
+Paper and cardboard,RT,EL,2013,79.7
+Paper and cardboard,RT,EL,2014,79.1
+Paper and cardboard,RT,EL,2015,89.6
+Paper and cardboard,RT,EL,2016,98.5
+Paper and cardboard,RT,EL,2017,99.5
+Paper and cardboard,RT,EL,2018,91.5
+Paper and cardboard,RT,EL,2019,84.6
+Paper and cardboard,RT,ES,2009,76.7
+Paper and cardboard,RT,ES,2010,76.1
+Paper and cardboard,RT,ES,2011,76.6
+Paper and cardboard,RT,ES,2012,77.8
+Paper and cardboard,RT,ES,2013,75.0
+Paper and cardboard,RT,ES,2014,78.2
+Paper and cardboard,RT,ES,2015,76.9
+Paper and cardboard,RT,ES,2016,79.7
+Paper and cardboard,RT,ES,2017,74.6
+Paper and cardboard,RT,ES,2018,72.5
+Paper and cardboard,RT,ES,2019,72.9
+Paper and cardboard,RT,ES,2020,71.8
+Paper and cardboard,RT,EU27_2020,2009,83.3
+Paper and cardboard,RT,EU27_2020,2010,83.8
+Paper and cardboard,RT,EU27_2020,2011,82.7
+Paper and cardboard,RT,EU27_2020,2012,83.5
+Paper and cardboard,RT,EU27_2020,2013,84.0
+Paper and cardboard,RT,EU27_2020,2014,84.1
+Paper and cardboard,RT,EU27_2020,2015,83.9
+Paper and cardboard,RT,EU27_2020,2016,85.4
+Paper and cardboard,RT,EU27_2020,2017,85.4
+Paper and cardboard,RT,EU27_2020,2018,84.2
+Paper and cardboard,RT,EU27_2020,2019,82.1
+Paper and cardboard,RT,EU27_2020,2020,81.5
+Paper and cardboard,RT,FI,2009,94.7
+Paper and cardboard,RT,FI,2010,96.2
+Paper and cardboard,RT,FI,2011,96.8
+Paper and cardboard,RT,FI,2012,99.2
+Paper and cardboard,RT,FI,2013,97.6
+Paper and cardboard,RT,FI,2014,101.2
+Paper and cardboard,RT,FI,2015,111.6
+Paper and cardboard,RT,FI,2016,114.6
+Paper and cardboard,RT,FI,2017,116.1
+Paper and cardboard,RT,FI,2018,116.0
+Paper and cardboard,RT,FI,2019,115.9
+Paper and cardboard,RT,FI,2020,123.1
+Paper and cardboard,RT,FR,2009,85.6
+Paper and cardboard,RT,FR,2010,91.9
+Paper and cardboard,RT,FR,2011,88.0
+Paper and cardboard,RT,FR,2012,91.8
+Paper and cardboard,RT,FR,2013,95.8
+Paper and cardboard,RT,FR,2014,94.1
+Paper and cardboard,RT,FR,2015,92.0
+Paper and cardboard,RT,FR,2016,93.9
+Paper and cardboard,RT,FR,2017,98.4
+Paper and cardboard,RT,FR,2018,92.1
+Paper and cardboard,RT,FR,2019,91.4
+Paper and cardboard,RT,FR,2020,82.2
+Paper and cardboard,RT,HR,2012,96.1
+Paper and cardboard,RT,HR,2013,88.2
+Paper and cardboard,RT,HR,2014,76.9
+Paper and cardboard,RT,HR,2015,89.4
+Paper and cardboard,RT,HR,2016,82.5
+Paper and cardboard,RT,HR,2017,83.7
+Paper and cardboard,RT,HR,2018,93.7
+Paper and cardboard,RT,HR,2019,74.2
+Paper and cardboard,RT,HR,2020,90.4
+Paper and cardboard,RT,HU,2009,94.0
+Paper and cardboard,RT,HU,2010,94.7
+Paper and cardboard,RT,HU,2011,94.0
+Paper and cardboard,RT,HU,2012,73.0
+Paper and cardboard,RT,HU,2013,78.3
+Paper and cardboard,RT,HU,2014,66.2
+Paper and cardboard,RT,HU,2015,75.8
+Paper and cardboard,RT,HU,2016,77.0
+Paper and cardboard,RT,HU,2017,74.5
+Paper and cardboard,RT,HU,2018,67.5
+Paper and cardboard,RT,HU,2019,70.5
+Paper and cardboard,RT,HU,2020,79.7
+Paper and cardboard,RT,IE,2009,81.2
+Paper and cardboard,RT,IE,2010,84.0
+Paper and cardboard,RT,IE,2011,91.5
+Paper and cardboard,RT,IE,2012,83.0
+Paper and cardboard,RT,IE,2013,79.1
+Paper and cardboard,RT,IE,2014,79.4
+Paper and cardboard,RT,IE,2015,79.7
+Paper and cardboard,RT,IE,2016,79.2
+Paper and cardboard,RT,IE,2017,78.5
+Paper and cardboard,RT,IE,2018,79.1
+Paper and cardboard,RT,IE,2019,78.5
+Paper and cardboard,RT,IE,2020,78.1
+Paper and cardboard,RT,IS,2010,65.3
+Paper and cardboard,RT,IS,2011,76.5
+Paper and cardboard,RT,IS,2012,62.9
+Paper and cardboard,RT,IS,2013,71.6
+Paper and cardboard,RT,IS,2014,76.0
+Paper and cardboard,RT,IS,2015,83.9
+Paper and cardboard,RT,IS,2016,83.1
+Paper and cardboard,RT,IS,2017,83.7
+Paper and cardboard,RT,IS,2018,92.9
+Paper and cardboard,RT,IS,2019,87.2
+Paper and cardboard,RT,IS,2020,99.5
+Paper and cardboard,RT,IT,2009,80.4
+Paper and cardboard,RT,IT,2010,78.7
+Paper and cardboard,RT,IT,2011,79.5
+Paper and cardboard,RT,IT,2012,84.5
+Paper and cardboard,RT,IT,2013,84.6
+Paper and cardboard,RT,IT,2014,78.7
+Paper and cardboard,RT,IT,2015,79.7
+Paper and cardboard,RT,IT,2016,79.7
+Paper and cardboard,RT,IT,2017,79.8
+Paper and cardboard,RT,IT,2018,80.0
+Paper and cardboard,RT,IT,2019,80.8
+Paper and cardboard,RT,IT,2020,86.1
+Paper and cardboard,RT,LI,2009,78.0
+Paper and cardboard,RT,LI,2010,75.1
+Paper and cardboard,RT,LI,2011,74.6
+Paper and cardboard,RT,LI,2012,66.2
+Paper and cardboard,RT,LI,2013,75.9
+Paper and cardboard,RT,LI,2014,76.2
+Paper and cardboard,RT,LI,2015,82.1
+Paper and cardboard,RT,LI,2016,82.6
+Paper and cardboard,RT,LI,2017,82.3
+Paper and cardboard,RT,LI,2018,82.6
+Paper and cardboard,RT,LI,2019,85.0
+Paper and cardboard,RT,LI,2020,85.0
+Paper and cardboard,RT,LT,2009,73.5
+Paper and cardboard,RT,LT,2010,83.5
+Paper and cardboard,RT,LT,2011,83.7
+Paper and cardboard,RT,LT,2012,82.4
+Paper and cardboard,RT,LT,2013,87.3
+Paper and cardboard,RT,LT,2014,89.1
+Paper and cardboard,RT,LT,2015,87.2
+Paper and cardboard,RT,LT,2016,85.0
+Paper and cardboard,RT,LT,2017,86.7
+Paper and cardboard,RT,LT,2018,77.5
+Paper and cardboard,RT,LT,2019,77.0
+Paper and cardboard,RT,LT,2020,80.1
+Paper and cardboard,RT,LU,2009,76.5
+Paper and cardboard,RT,LU,2010,76.0
+Paper and cardboard,RT,LU,2011,77.8
+Paper and cardboard,RT,LU,2012,76.7
+Paper and cardboard,RT,LU,2013,74.4
+Paper and cardboard,RT,LU,2014,81.6
+Paper and cardboard,RT,LU,2015,77.2
+Paper and cardboard,RT,LU,2016,78.2
+Paper and cardboard,RT,LU,2017,79.1
+Paper and cardboard,RT,LU,2018,80.2
+Paper and cardboard,RT,LU,2019,80.1
+Paper and cardboard,RT,LU,2020,79.7
+Paper and cardboard,RT,LV,2009,74.6
+Paper and cardboard,RT,LV,2010,74.9
+Paper and cardboard,RT,LV,2011,75.2
+Paper and cardboard,RT,LV,2012,75.3
+Paper and cardboard,RT,LV,2013,74.7
+Paper and cardboard,RT,LV,2014,81.5
+Paper and cardboard,RT,LV,2015,77.5
+Paper and cardboard,RT,LV,2016,81.1
+Paper and cardboard,RT,LV,2017,86.2
+Paper and cardboard,RT,LV,2018,82.9
+Paper and cardboard,RT,LV,2019,80.9
+Paper and cardboard,RT,LV,2020,79.3
+Paper and cardboard,RT,MT,2009,48.4
+Paper and cardboard,RT,MT,2010,51.4
+Paper and cardboard,RT,MT,2011,72.7
+Paper and cardboard,RT,MT,2012,77.2
+Paper and cardboard,RT,MT,2013,48.4
+Paper and cardboard,RT,MT,2014,55.5
+Paper and cardboard,RT,MT,2015,56.4
+Paper and cardboard,RT,MT,2016,59.7
+Paper and cardboard,RT,MT,2017,50.7
+Paper and cardboard,RT,MT,2018,48.4
+Paper and cardboard,RT,MT,2019,45.5
+Paper and cardboard,RT,MT,2020,47.8
+Paper and cardboard,RT,NL,2009,94.8
+Paper and cardboard,RT,NL,2010,89.9
+Paper and cardboard,RT,NL,2011,88.6
+Paper and cardboard,RT,NL,2012,88.9
+Paper and cardboard,RT,NL,2013,88.2
+Paper and cardboard,RT,NL,2014,85.9
+Paper and cardboard,RT,NL,2015,85.4
+Paper and cardboard,RT,NL,2016,85.4
+Paper and cardboard,RT,NL,2017,87.1
+Paper and cardboard,RT,NL,2018,87.9
+Paper and cardboard,RT,NL,2019,91.0
+Paper and cardboard,RT,NL,2020,89.4
+Paper and cardboard,RT,NO,2009,79.6
+Paper and cardboard,RT,NO,2010,83.2
+Paper and cardboard,RT,NO,2011,84.9
+Paper and cardboard,RT,NO,2012,81.6
+Paper and cardboard,RT,NO,2013,81.4
+Paper and cardboard,RT,NO,2014,82.9
+Paper and cardboard,RT,NO,2015,82.2
+Paper and cardboard,RT,NO,2016,83.0
+Paper and cardboard,RT,NO,2017,85.0
+Paper and cardboard,RT,NO,2018,79.3
+Paper and cardboard,RT,NO,2019,83.3
+Paper and cardboard,RT,NO,2020,77.6
+Paper and cardboard,RT,PL,2009,50.9
+Paper and cardboard,RT,PL,2010,57.1
+Paper and cardboard,RT,PL,2011,58.7
+Paper and cardboard,RT,PL,2012,53.1
+Paper and cardboard,RT,PL,2013,50.0
+Paper and cardboard,RT,PL,2014,72.8
+Paper and cardboard,RT,PL,2015,77.6
+Paper and cardboard,RT,PL,2016,73.8
+Paper and cardboard,RT,PL,2017,82.2
+Paper and cardboard,RT,PL,2018,88.2
+Paper and cardboard,RT,PL,2019,79.9
+Paper and cardboard,RT,PT,2009,79.5
+Paper and cardboard,RT,PT,2010,67.0
+Paper and cardboard,RT,PT,2011,71.3
+Paper and cardboard,RT,PT,2012,66.1
+Paper and cardboard,RT,PT,2013,73.4
+Paper and cardboard,RT,PT,2014,69.1
+Paper and cardboard,RT,PT,2015,62.2
+Paper and cardboard,RT,PT,2016,70.1
+Paper and cardboard,RT,PT,2017,66.9
+Paper and cardboard,RT,PT,2018,66.8
+Paper and cardboard,RT,PT,2019,71.0
+Paper and cardboard,RT,PT,2020,66.0
+Paper and cardboard,RT,RO,2009,68.7
+Paper and cardboard,RT,RO,2010,66.8
+Paper and cardboard,RT,RO,2011,65.5
+Paper and cardboard,RT,RO,2012,69.8
+Paper and cardboard,RT,RO,2013,74.6
+Paper and cardboard,RT,RO,2014,83.4
+Paper and cardboard,RT,RO,2015,89.3
+Paper and cardboard,RT,RO,2016,92.5
+Paper and cardboard,RT,RO,2017,90.6
+Paper and cardboard,RT,RO,2018,88.9
+Paper and cardboard,RT,RO,2019,68.3
+Paper and cardboard,RT,RO,2020,63.2
+Paper and cardboard,RT,SE,2009,74.2
+Paper and cardboard,RT,SE,2010,69.6
+Paper and cardboard,RT,SE,2011,75.5
+Paper and cardboard,RT,SE,2012,76.8
+Paper and cardboard,RT,SE,2013,78.4
+Paper and cardboard,RT,SE,2014,79.3
+Paper and cardboard,RT,SE,2015,81.7
+Paper and cardboard,RT,SE,2016,81.8
+Paper and cardboard,RT,SE,2017,81.8
+Paper and cardboard,RT,SE,2018,77.2
+Paper and cardboard,RT,SE,2019,75.0
+Paper and cardboard,RT,SE,2020,78.0
+Paper and cardboard,RT,SI,2009,71.8
+Paper and cardboard,RT,SI,2010,74.7
+Paper and cardboard,RT,SI,2011,73.5
+Paper and cardboard,RT,SI,2012,78.7
+Paper and cardboard,RT,SI,2013,78.7
+Paper and cardboard,RT,SI,2014,80.4
+Paper and cardboard,RT,SI,2015,75.6
+Paper and cardboard,RT,SI,2016,76.6
+Paper and cardboard,RT,SI,2017,76.2
+Paper and cardboard,RT,SI,2018,81.2
+Paper and cardboard,RT,SI,2019,80.6
+Paper and cardboard,RT,SI,2020,82.9
+Paper and cardboard,RT,SK,2009,84.2
+Paper and cardboard,RT,SK,2010,50.8
+Paper and cardboard,RT,SK,2011,80.2
+Paper and cardboard,RT,SK,2012,84.7
+Paper and cardboard,RT,SK,2013,79.7
+Paper and cardboard,RT,SK,2014,79.9
+Paper and cardboard,RT,SK,2015,76.8
+Paper and cardboard,RT,SK,2016,78.4
+Paper and cardboard,RT,SK,2017,74.2
+Paper and cardboard,RT,SK,2018,76.7
+Paper and cardboard,RT,SK,2019,77.7
+Paper and cardboard,RT,SK,2020,79.7
+Paper and cardboard,RT,UK,2009,83.9
+Paper and cardboard,RT,UK,2010,81.9
+Paper and cardboard,RT,UK,2011,84.8
+Paper and cardboard,RT,UK,2012,86.5
+Paper and cardboard,RT,UK,2013,89.4
+Paper and cardboard,RT,UK,2014,73.1
+Paper and cardboard,RT,UK,2015,77.2
+Paper and cardboard,RT,UK,2016,82.0
+Paper and cardboard,RT,UK,2017,79.0
+Paper and cardboard,RT,UK,2018,74.4
+Plastic,RT,AT,2009,32.7
+Plastic,RT,AT,2010,34.4
+Plastic,RT,AT,2011,34.8
+Plastic,RT,AT,2012,34.7
+Plastic,RT,AT,2013,34.4
+Plastic,RT,AT,2014,33.6
+Plastic,RT,AT,2015,33.6
+Plastic,RT,AT,2016,33.6
+Plastic,RT,AT,2017,33.4
+Plastic,RT,AT,2018,31.9
+Plastic,RT,AT,2019,30.8
+Plastic,RT,AT,2020,31.6
+Plastic,RT,BE,2009,43.0
+Plastic,RT,BE,2010,41.5
+Plastic,RT,BE,2011,41.4
+Plastic,RT,BE,2012,41.5
+Plastic,RT,BE,2013,39.0
+Plastic,RT,BE,2014,41.8
+Plastic,RT,BE,2015,42.6
+Plastic,RT,BE,2016,43.4
+Plastic,RT,BE,2017,44.5
+Plastic,RT,BE,2018,42.4
+Plastic,RT,BE,2019,47.3
+Plastic,RT,BE,2020,44.7
+Plastic,RT,BG,2009,30.0
+Plastic,RT,BG,2010,40.9
+Plastic,RT,BG,2011,39.2
+Plastic,RT,BG,2012,40.7
+Plastic,RT,BG,2013,41.3
+Plastic,RT,BG,2014,64.1
+Plastic,RT,BG,2015,60.8
+Plastic,RT,BG,2016,52.6
+Plastic,RT,BG,2017,64.8
+Plastic,RT,BG,2018,59.2
+Plastic,RT,BG,2019,50.6
+Plastic,RT,CY,2009,18.2
+Plastic,RT,CY,2010,27.2
+Plastic,RT,CY,2011,38.0
+Plastic,RT,CY,2012,44.8
+Plastic,RT,CY,2013,45.3
+Plastic,RT,CY,2014,46.6
+Plastic,RT,CY,2015,63.7
+Plastic,RT,CY,2016,62.3
+Plastic,RT,CY,2017,65.0
+Plastic,RT,CY,2018,54.3
+Plastic,RT,CY,2019,50.5
+Plastic,RT,CY,2020,48.6
+Plastic,RT,CZ,2009,52.5
+Plastic,RT,CZ,2010,54.0
+Plastic,RT,CZ,2011,57.0
+Plastic,RT,CZ,2012,58.2
+Plastic,RT,CZ,2013,59.7
+Plastic,RT,CZ,2014,58.2
+Plastic,RT,CZ,2015,61.7
+Plastic,RT,CZ,2016,59.2
+Plastic,RT,CZ,2017,58.6
+Plastic,RT,CZ,2018,57.0
+Plastic,RT,CZ,2019,61.0
+Plastic,RT,CZ,2020,41.8
+Plastic,RT,DE,2009,46.5
+Plastic,RT,DE,2010,45.1
+Plastic,RT,DE,2011,46.3
+Plastic,RT,DE,2012,47.0
+Plastic,RT,DE,2013,46.8
+Plastic,RT,DE,2014,47.3
+Plastic,RT,DE,2015,47.4
+Plastic,RT,DE,2016,48.4
+Plastic,RT,DE,2017,48.0
+Plastic,RT,DE,2018,46.4
+Plastic,RT,DE,2019,43.3
+Plastic,RT,DE,2020,46.2
+Plastic,RT,DK,2009,26.4
+Plastic,RT,DK,2010,26.4
+Plastic,RT,DK,2011,22.3
+Plastic,RT,DK,2012,25.9
+Plastic,RT,DK,2013,29.1
+Plastic,RT,DK,2014,30.7
+Plastic,RT,DK,2015,30.5
+Plastic,RT,DK,2016,36.1
+Plastic,RT,DK,2017,41.8
+Plastic,RT,DK,2018,31.3
+Plastic,RT,DK,2019,37.4
+Plastic,RT,DK,2020,22.9
+Plastic,RT,EE,2009,22.7
+Plastic,RT,EE,2010,33.4
+Plastic,RT,EE,2011,39.6
+Plastic,RT,EE,2012,29.8
+Plastic,RT,EE,2013,28.1
+Plastic,RT,EE,2014,29.3
+Plastic,RT,EE,2015,27.8
+Plastic,RT,EE,2016,24.6
+Plastic,RT,EE,2017,26.5
+Plastic,RT,EE,2018,37.7
+Plastic,RT,EE,2019,40.6
+Plastic,RT,EE,2020,40.9
+Plastic,RT,EL,2009,26.7
+Plastic,RT,EL,2010,30.1
+Plastic,RT,EL,2011,33.0
+Plastic,RT,EL,2012,32.2
+Plastic,RT,EL,2013,32.3
+Plastic,RT,EL,2014,32.8
+Plastic,RT,EL,2015,36.8
+Plastic,RT,EL,2016,38.2
+Plastic,RT,EL,2017,41.4
+Plastic,RT,EL,2018,39.8
+Plastic,RT,EL,2019,37.6
+Plastic,RT,ES,2009,26.6
+Plastic,RT,ES,2010,29.2
+Plastic,RT,ES,2011,32.4
+Plastic,RT,ES,2012,35.1
+Plastic,RT,ES,2013,40.7
+Plastic,RT,ES,2014,42.5
+Plastic,RT,ES,2015,44.0
+Plastic,RT,ES,2016,45.5
+Plastic,RT,ES,2017,47.9
+Plastic,RT,ES,2018,50.7
+Plastic,RT,ES,2019,51.5
+Plastic,RT,ES,2020,51.4
+Plastic,RT,EU27_2020,2009,33.5
+Plastic,RT,EU27_2020,2010,34.1
+Plastic,RT,EU27_2020,2011,35.6
+Plastic,RT,EU27_2020,2012,37.0
+Plastic,RT,EU27_2020,2013,37.5
+Plastic,RT,EU27_2020,2014,39.0
+Plastic,RT,EU27_2020,2015,40.5
+Plastic,RT,EU27_2020,2016,42.4
+Plastic,RT,EU27_2020,2017,41.7
+Plastic,RT,EU27_2020,2018,41.4
+Plastic,RT,EU27_2020,2019,41.1
+Plastic,RT,EU27_2020,2020,37.6
+Plastic,RT,FI,2009,25.3
+Plastic,RT,FI,2010,26.2
+Plastic,RT,FI,2011,25.4
+Plastic,RT,FI,2012,25.4
+Plastic,RT,FI,2013,22.7
+Plastic,RT,FI,2014,24.6
+Plastic,RT,FI,2015,23.7
+Plastic,RT,FI,2016,25.4
+Plastic,RT,FI,2017,26.5
+Plastic,RT,FI,2018,31.1
+Plastic,RT,FI,2019,42.0
+Plastic,RT,FI,2020,39.4
+Plastic,RT,FR,2009,25.0
+Plastic,RT,FR,2010,23.7
+Plastic,RT,FR,2011,23.3
+Plastic,RT,FR,2012,25.1
+Plastic,RT,FR,2013,25.6
+Plastic,RT,FR,2014,25.2
+Plastic,RT,FR,2015,25.5
+Plastic,RT,FR,2016,25.8
+Plastic,RT,FR,2017,26.5
+Plastic,RT,FR,2018,26.9
+Plastic,RT,FR,2019,26.9
+Plastic,RT,FR,2020,21.4
+Plastic,RT,HR,2012,45.4
+Plastic,RT,HR,2013,45.3
+Plastic,RT,HR,2014,37.7
+Plastic,RT,HR,2015,46.3
+Plastic,RT,HR,2016,41.1
+Plastic,RT,HR,2017,37.3
+Plastic,RT,HR,2018,37.3
+Plastic,RT,HR,2019,35.7
+Plastic,RT,HR,2020,34.1
+Plastic,RT,HU,2009,24.5
+Plastic,RT,HU,2010,32.5
+Plastic,RT,HU,2011,22.4
+Plastic,RT,HU,2012,27.8
+Plastic,RT,HU,2013,30.8
+Plastic,RT,HU,2014,36.8
+Plastic,RT,HU,2015,27.4
+Plastic,RT,HU,2016,31.4
+Plastic,RT,HU,2017,32.0
+Plastic,RT,HU,2018,30.0
+Plastic,RT,HU,2019,33.0
+Plastic,RT,HU,2020,24.9
+Plastic,RT,IE,2009,36.2
+Plastic,RT,IE,2010,39.4
+Plastic,RT,IE,2011,47.5
+Plastic,RT,IE,2012,38.2
+Plastic,RT,IE,2013,34.8
+Plastic,RT,IE,2014,31.3
+Plastic,RT,IE,2015,29.7
+Plastic,RT,IE,2016,31.2
+Plastic,RT,IE,2017,30.5
+Plastic,RT,IE,2018,27.1
+Plastic,RT,IE,2019,27.5
+Plastic,RT,IE,2020,29.0
+Plastic,RT,IS,2010,31.7
+Plastic,RT,IS,2011,41.5
+Plastic,RT,IS,2012,40.9
+Plastic,RT,IS,2013,26.5
+Plastic,RT,IS,2014,26.8
+Plastic,RT,IS,2015,37.0
+Plastic,RT,IS,2016,41.5
+Plastic,RT,IS,2017,28.9
+Plastic,RT,IS,2018,29.3
+Plastic,RT,IS,2019,24.0
+Plastic,RT,IS,2020,30.8
+Plastic,RT,IT,2009,33.5
+Plastic,RT,IT,2010,34.5
+Plastic,RT,IT,2011,36.1
+Plastic,RT,IT,2012,37.5
+Plastic,RT,IT,2013,36.8
+Plastic,RT,IT,2014,38.0
+Plastic,RT,IT,2015,41.1
+Plastic,RT,IT,2016,42.4
+Plastic,RT,IT,2017,41.8
+Plastic,RT,IT,2018,43.4
+Plastic,RT,IT,2019,44.7
+Plastic,RT,IT,2020,51.2
+Plastic,RT,LI,2009,3.0
+Plastic,RT,LI,2010,2.3
+Plastic,RT,LI,2011,2.6
+Plastic,RT,LI,2012,7.0
+Plastic,RT,LI,2013,6.6
+Plastic,RT,LI,2014,6.8
+Plastic,RT,LI,2015,16.9
+Plastic,RT,LI,2016,20.9
+Plastic,RT,LI,2017,18.3
+Plastic,RT,LI,2018,21.4
+Plastic,RT,LI,2019,26.5
+Plastic,RT,LI,2020,30.2
+Plastic,RT,LT,2009,35.9
+Plastic,RT,LT,2010,38.4
+Plastic,RT,LT,2011,38.9
+Plastic,RT,LT,2012,38.9
+Plastic,RT,LT,2013,42.9
+Plastic,RT,LT,2014,51.2
+Plastic,RT,LT,2015,54.8
+Plastic,RT,LT,2016,74.4
+Plastic,RT,LT,2017,71.5
+Plastic,RT,LT,2018,69.3
+Plastic,RT,LT,2019,69.6
+Plastic,RT,LT,2020,56.1
+Plastic,RT,LU,2009,24.6
+Plastic,RT,LU,2010,31.0
+Plastic,RT,LU,2011,33.2
+Plastic,RT,LU,2012,36.7
+Plastic,RT,LU,2013,32.2
+Plastic,RT,LU,2014,32.3
+Plastic,RT,LU,2015,32.7
+Plastic,RT,LU,2016,31.9
+Plastic,RT,LU,2017,33.1
+Plastic,RT,LU,2018,32.3
+Plastic,RT,LU,2019,33.4
+Plastic,RT,LU,2020,34.7
+Plastic,RT,LV,2009,20.3
+Plastic,RT,LV,2010,24.0
+Plastic,RT,LV,2011,23.0
+Plastic,RT,LV,2012,24.0
+Plastic,RT,LV,2013,24.5
+Plastic,RT,LV,2014,36.4
+Plastic,RT,LV,2015,35.3
+Plastic,RT,LV,2016,37.2
+Plastic,RT,LV,2017,36.6
+Plastic,RT,LV,2018,35.8
+Plastic,RT,LV,2019,35.4
+Plastic,RT,LV,2020,35.9
+Plastic,RT,MT,2009,50.9
+Plastic,RT,MT,2010,22.0
+Plastic,RT,MT,2011,28.9
+Plastic,RT,MT,2012,32.8
+Plastic,RT,MT,2013,22.6
+Plastic,RT,MT,2014,32.9
+Plastic,RT,MT,2015,28.6
+Plastic,RT,MT,2016,23.5
+Plastic,RT,MT,2017,19.2
+Plastic,RT,MT,2018,11.1
+Plastic,RT,MT,2019,15.4
+Plastic,RT,MT,2020,10.2
+Plastic,RT,NL,2009,38.4
+Plastic,RT,NL,2010,47.6
+Plastic,RT,NL,2011,50.7
+Plastic,RT,NL,2012,47.7
+Plastic,RT,NL,2013,46.6
+Plastic,RT,NL,2014,50.6
+Plastic,RT,NL,2015,49.8
+Plastic,RT,NL,2016,51.5
+Plastic,RT,NL,2017,50.4
+Plastic,RT,NL,2018,52.0
+Plastic,RT,NL,2019,57.2
+Plastic,RT,NL,2020,49.2
+Plastic,RT,NO,2009,30.0
+Plastic,RT,NO,2010,36.4
+Plastic,RT,NO,2011,37.6
+Plastic,RT,NO,2012,38.1
+Plastic,RT,NO,2013,38.8
+Plastic,RT,NO,2014,36.1
+Plastic,RT,NO,2015,37.1
+Plastic,RT,NO,2016,39.3
+Plastic,RT,NO,2017,36.9
+Plastic,RT,NO,2018,36.3
+Plastic,RT,NO,2019,33.2
+Plastic,RT,NO,2020,27.9
+Plastic,RT,PL,2009,21.3
+Plastic,RT,PL,2010,20.1
+Plastic,RT,PL,2011,22.5
+Plastic,RT,PL,2012,21.9
+Plastic,RT,PL,2013,19.7
+Plastic,RT,PL,2014,28.3
+Plastic,RT,PL,2015,30.8
+Plastic,RT,PL,2016,46.9
+Plastic,RT,PL,2017,34.6
+Plastic,RT,PL,2018,35.7
+Plastic,RT,PL,2019,31.5
+Plastic,RT,PT,2009,25.5
+Plastic,RT,PT,2010,24.5
+Plastic,RT,PT,2011,26.1
+Plastic,RT,PT,2012,30.4
+Plastic,RT,PT,2013,35.3
+Plastic,RT,PT,2014,40.0
+Plastic,RT,PT,2015,43.0
+Plastic,RT,PT,2016,41.8
+Plastic,RT,PT,2017,34.9
+Plastic,RT,PT,2018,33.9
+Plastic,RT,PT,2019,35.6
+Plastic,RT,PT,2020,33.9
+Plastic,RT,RO,2009,23.8
+Plastic,RT,RO,2010,28.2
+Plastic,RT,RO,2011,40.3
+Plastic,RT,RO,2012,51.3
+Plastic,RT,RO,2013,51.7
+Plastic,RT,RO,2014,44.5
+Plastic,RT,RO,2015,46.7
+Plastic,RT,RO,2016,46.5
+Plastic,RT,RO,2017,47.6
+Plastic,RT,RO,2018,43.0
+Plastic,RT,RO,2019,31.1
+Plastic,RT,RO,2020,30.1
+Plastic,RT,SE,2009,37.5
+Plastic,RT,SE,2010,32.4
+Plastic,RT,SE,2011,34.1
+Plastic,RT,SE,2012,34.9
+Plastic,RT,SE,2013,45.6
+Plastic,RT,SE,2014,47.5
+Plastic,RT,SE,2015,49.0
+Plastic,RT,SE,2016,50.7
+Plastic,RT,SE,2017,48.4
+Plastic,RT,SE,2018,50.0
+Plastic,RT,SE,2019,53.2
+Plastic,RT,SE,2020,33.5
+Plastic,RT,SI,2009,42.0
+Plastic,RT,SI,2010,67.3
+Plastic,RT,SI,2011,75.5
+Plastic,RT,SI,2012,64.8
+Plastic,RT,SI,2013,81.7
+Plastic,RT,SI,2014,69.3
+Plastic,RT,SI,2015,63.4
+Plastic,RT,SI,2016,62.0
+Plastic,RT,SI,2017,60.4
+Plastic,RT,SI,2018,48.8
+Plastic,RT,SI,2019,50.3
+Plastic,RT,SI,2020,44.6
+Plastic,RT,SK,2009,49.3
+Plastic,RT,SK,2010,44.9
+Plastic,RT,SK,2011,49.9
+Plastic,RT,SK,2012,57.0
+Plastic,RT,SK,2013,55.1
+Plastic,RT,SK,2014,55.9
+Plastic,RT,SK,2015,54.4
+Plastic,RT,SK,2016,51.7
+Plastic,RT,SK,2017,52.4
+Plastic,RT,SK,2018,51.4
+Plastic,RT,SK,2019,52.8
+Plastic,RT,SK,2020,56.3
+Plastic,RT,UK,2009,24.1
+Plastic,RT,UK,2010,24.1
+Plastic,RT,UK,2011,24.2
+Plastic,RT,UK,2012,25.2
+Plastic,RT,UK,2013,31.6
+Plastic,RT,UK,2014,37.9
+Plastic,RT,UK,2015,39.4
+Plastic,RT,UK,2016,44.9
+Plastic,RT,UK,2017,46.2
+Plastic,RT,UK,2018,43.8
+Wooden,RT,AT,2009,21.8
+Wooden,RT,AT,2010,33.7
+Wooden,RT,AT,2011,21.1
+Wooden,RT,AT,2012,21.5
+Wooden,RT,AT,2013,20.3
+Wooden,RT,AT,2014,19.9
+Wooden,RT,AT,2015,18.1
+Wooden,RT,AT,2016,17.7
+Wooden,RT,AT,2017,19.9
+Wooden,RT,AT,2018,20.6
+Wooden,RT,AT,2019,20.5
+Wooden,RT,AT,2020,29.6
+Wooden,RT,BE,2009,56.8
+Wooden,RT,BE,2010,63.3
+Wooden,RT,BE,2011,63.4
+Wooden,RT,BE,2012,66.1
+Wooden,RT,BE,2013,59.0
+Wooden,RT,BE,2014,72.2
+Wooden,RT,BE,2015,74.9
+Wooden,RT,BE,2016,80.9
+Wooden,RT,BE,2017,83.7
+Wooden,RT,BE,2018,90.6
+Wooden,RT,BE,2019,80.5
+Wooden,RT,BE,2020,71.6
+Wooden,RT,BG,2009,45.5
+Wooden,RT,BG,2010,53.8
+Wooden,RT,BG,2011,41.5
+Wooden,RT,BG,2012,53.1
+Wooden,RT,BG,2013,58.5
+Wooden,RT,BG,2014,37.8
+Wooden,RT,BG,2015,32.7
+Wooden,RT,BG,2016,39.0
+Wooden,RT,BG,2017,31.9
+Wooden,RT,BG,2018,21.3
+Wooden,RT,BG,2019,31.5
+Wooden,RT,CY,2009,24.6
+Wooden,RT,CY,2010,8.4
+Wooden,RT,CY,2011,9.8
+Wooden,RT,CY,2012,6.2
+Wooden,RT,CY,2013,12.0
+Wooden,RT,CY,2014,11.5
+Wooden,RT,CY,2015,9.2
+Wooden,RT,CY,2016,10.0
+Wooden,RT,CY,2017,8.5
+Wooden,RT,CY,2018,9.6
+Wooden,RT,CY,2019,24.0
+Wooden,RT,CY,2020,20.9
+Wooden,RT,CZ,2009,32.9
+Wooden,RT,CZ,2010,36.3
+Wooden,RT,CZ,2011,27.6
+Wooden,RT,CZ,2012,25.7
+Wooden,RT,CZ,2013,35.6
+Wooden,RT,CZ,2014,66.1
+Wooden,RT,CZ,2015,68.7
+Wooden,RT,CZ,2016,63.9
+Wooden,RT,CZ,2017,49.3
+Wooden,RT,CZ,2018,45.0
+Wooden,RT,CZ,2019,42.3
+Wooden,RT,CZ,2020,34.8
+Wooden,RT,DE,2009,30.8
+Wooden,RT,DE,2010,27.5
+Wooden,RT,DE,2011,30.1
+Wooden,RT,DE,2012,30.3
+Wooden,RT,DE,2013,25.5
+Wooden,RT,DE,2014,26.8
+Wooden,RT,DE,2015,25.8
+Wooden,RT,DE,2016,26.0
+Wooden,RT,DE,2017,25.8
+Wooden,RT,DE,2018,25.0
+Wooden,RT,DE,2019,23.6
+Wooden,RT,DE,2020,32.6
+Wooden,RT,DK,2009,86.1
+Wooden,RT,DK,2010,86.1
+Wooden,RT,DK,2011,29.5
+Wooden,RT,DK,2012,40.4
+Wooden,RT,DK,2013,66.4
+Wooden,RT,DK,2014,52.5
+Wooden,RT,DK,2015,75.9
+Wooden,RT,DK,2016,87.3
+Wooden,RT,DK,2017,59.4
+Wooden,RT,DK,2018,45.7
+Wooden,RT,DK,2019,57.4
+Wooden,RT,DK,2020,90.7
+Wooden,RT,EE,2009,81.0
+Wooden,RT,EE,2010,63.0
+Wooden,RT,EE,2011,72.4
+Wooden,RT,EE,2012,59.7
+Wooden,RT,EE,2013,66.3
+Wooden,RT,EE,2014,62.0
+Wooden,RT,EE,2015,66.1
+Wooden,RT,EE,2016,32.5
+Wooden,RT,EE,2017,16.4
+Wooden,RT,EE,2018,20.3
+Wooden,RT,EE,2019,14.7
+Wooden,RT,EE,2020,39.3
+Wooden,RT,EL,2009,37.3
+Wooden,RT,EL,2010,50.1
+Wooden,RT,EL,2011,65.9
+Wooden,RT,EL,2012,41.8
+Wooden,RT,EL,2013,2.5
+Wooden,RT,EL,2014,17.4
+Wooden,RT,EL,2015,22.0
+Wooden,RT,EL,2016,21.9
+Wooden,RT,EL,2017,20.4
+Wooden,RT,EL,2018,24.1
+Wooden,RT,EL,2019,24.5
+Wooden,RT,ES,2009,56.0
+Wooden,RT,ES,2010,55.7
+Wooden,RT,ES,2011,53.2
+Wooden,RT,ES,2012,57.9
+Wooden,RT,ES,2013,64.3
+Wooden,RT,ES,2014,64.3
+Wooden,RT,ES,2015,65.5
+Wooden,RT,ES,2016,67.1
+Wooden,RT,ES,2017,67.5
+Wooden,RT,ES,2018,67.0
+Wooden,RT,ES,2019,66.9
+Wooden,RT,ES,2020,88.0
+Wooden,RT,EU27_2020,2009,33.6
+Wooden,RT,EU27_2020,2010,35.3
+Wooden,RT,EU27_2020,2011,36.6
+Wooden,RT,EU27_2020,2012,37.5
+Wooden,RT,EU27_2020,2013,35.2
+Wooden,RT,EU27_2020,2014,39.3
+Wooden,RT,EU27_2020,2015,41.4
+Wooden,RT,EU27_2020,2016,40.7
+Wooden,RT,EU27_2020,2017,41.2
+Wooden,RT,EU27_2020,2018,29.3
+Wooden,RT,EU27_2020,2019,31.1
+Wooden,RT,EU27_2020,2020,31.9
+Wooden,RT,FI,2009,20.5
+Wooden,RT,FI,2010,17.8
+Wooden,RT,FI,2011,17.7
+Wooden,RT,FI,2012,16.9
+Wooden,RT,FI,2013,15.0
+Wooden,RT,FI,2014,12.8
+Wooden,RT,FI,2015,12.5
+Wooden,RT,FI,2016,14.4
+Wooden,RT,FI,2017,14.5
+Wooden,RT,FI,2018,24.4
+Wooden,RT,FI,2019,27.2
+Wooden,RT,FI,2020,28.1
+Wooden,RT,FR,2009,12.9
+Wooden,RT,FR,2010,19.1
+Wooden,RT,FR,2011,25.2
+Wooden,RT,FR,2012,28.6
+Wooden,RT,FR,2013,28.4
+Wooden,RT,FR,2014,28.2
+Wooden,RT,FR,2015,31.6
+Wooden,RT,FR,2016,29.1
+Wooden,RT,FR,2017,30.8
+Wooden,RT,FR,2018,29.0
+Wooden,RT,FR,2019,35.6
+Wooden,RT,FR,2020,34.5
+Wooden,RT,HR,2012,0.4
+Wooden,RT,HR,2013,1.9
+Wooden,RT,HR,2014,0.4
+Wooden,RT,HR,2015,3.1
+Wooden,RT,HR,2016,3.0
+Wooden,RT,HR,2017,2.9
+Wooden,RT,HR,2018,3.8
+Wooden,RT,HR,2019,2.9
+Wooden,RT,HR,2020,4.3
+Wooden,RT,HU,2009,23.4
+Wooden,RT,HU,2010,34.2
+Wooden,RT,HU,2011,34.7
+Wooden,RT,HU,2012,18.1
+Wooden,RT,HU,2013,7.5
+Wooden,RT,HU,2014,18.1
+Wooden,RT,HU,2015,19.9
+Wooden,RT,HU,2016,20.1
+Wooden,RT,HU,2017,24.1
+Wooden,RT,HU,2018,23.0
+Wooden,RT,HU,2019,23.3
+Wooden,RT,HU,2020,28.9
+Wooden,RT,IE,2009,79.1
+Wooden,RT,IE,2010,83.2
+Wooden,RT,IE,2011,92.8
+Wooden,RT,IE,2012,82.3
+Wooden,RT,IE,2013,81.6
+Wooden,RT,IE,2014,84.8
+Wooden,RT,IE,2015,85.4
+Wooden,RT,IE,2016,75.0
+Wooden,RT,IE,2017,74.3
+Wooden,RT,IE,2018,64.1
+Wooden,RT,IE,2019,64.9
+Wooden,RT,IE,2020,57.1
+Wooden,RT,IS,2010,28.8
+Wooden,RT,IS,2011,61.1
+Wooden,RT,IS,2012,48.1
+Wooden,RT,IS,2013,62.1
+Wooden,RT,IS,2014,38.5
+Wooden,RT,IS,2015,60.9
+Wooden,RT,IS,2016,62.5
+Wooden,RT,IS,2017,22.7
+Wooden,RT,IS,2018,36.3
+Wooden,RT,IS,2019,16.4
+Wooden,RT,IS,2020,70.8
+Wooden,RT,IT,2009,57.7
+Wooden,RT,IT,2010,58.7
+Wooden,RT,IT,2011,55.2
+Wooden,RT,IT,2012,54.2
+Wooden,RT,IT,2013,55.9
+Wooden,RT,IT,2014,59.0
+Wooden,RT,IT,2015,60.3
+Wooden,RT,IT,2016,60.0
+Wooden,RT,IT,2017,60.1
+Wooden,RT,IT,2018,61.9
+Wooden,RT,IT,2019,62.2
+Wooden,RT,IT,2020,62.0
+Wooden,RT,LI,2009,0.0
+Wooden,RT,LI,2010,0.0
+Wooden,RT,LI,2011,0.0
+Wooden,RT,LI,2012,0.0
+Wooden,RT,LI,2013,0.0
+Wooden,RT,LI,2014,0.0
+Wooden,RT,LI,2015,0.0
+Wooden,RT,LI,2016,0.0
+Wooden,RT,LI,2017,0.0
+Wooden,RT,LI,2018,0.0
+Wooden,RT,LI,2019,0.0
+Wooden,RT,LI,2020,0.0
+Wooden,RT,LT,2009,39.0
+Wooden,RT,LT,2010,46.4
+Wooden,RT,LT,2011,47.4
+Wooden,RT,LT,2012,48.8
+Wooden,RT,LT,2013,20.3
+Wooden,RT,LT,2014,27.2
+Wooden,RT,LT,2015,24.8
+Wooden,RT,LT,2016,48.3
+Wooden,RT,LT,2017,32.8
+Wooden,RT,LT,2018,23.8
+Wooden,RT,LT,2019,26.4
+Wooden,RT,LT,2020,30.1
+Wooden,RT,LU,2009,14.4
+Wooden,RT,LU,2010,32.1
+Wooden,RT,LU,2011,34.4
+Wooden,RT,LU,2012,23.4
+Wooden,RT,LU,2013,51.0
+Wooden,RT,LU,2014,34.2
+Wooden,RT,LU,2015,39.0
+Wooden,RT,LU,2016,34.9
+Wooden,RT,LU,2017,25.0
+Wooden,RT,LU,2018,31.6
+Wooden,RT,LU,2019,28.3
+Wooden,RT,LU,2020,29.7
+Wooden,RT,LV,2009,22.3
+Wooden,RT,LV,2010,29.9
+Wooden,RT,LV,2011,35.4
+Wooden,RT,LV,2012,36.7
+Wooden,RT,LV,2013,36.4
+Wooden,RT,LV,2014,31.8
+Wooden,RT,LV,2015,35.1
+Wooden,RT,LV,2016,39.9
+Wooden,RT,LV,2017,38.0
+Wooden,RT,LV,2018,27.3
+Wooden,RT,LV,2019,52.3
+Wooden,RT,LV,2020,49.2
+Wooden,RT,MT,2009,2.0
+Wooden,RT,MT,2010,2.7
+Wooden,RT,MT,2011,0.0
+Wooden,RT,MT,2012,0.8
+Wooden,RT,MT,2013,1.5
+Wooden,RT,MT,2014,6.6
+Wooden,RT,MT,2015,3.4
+Wooden,RT,MT,2016,0.0
+Wooden,RT,MT,2017,0.0
+Wooden,RT,MT,2018,0.0
+Wooden,RT,MT,2019,0.0
+Wooden,RT,MT,2020,0.0
+Wooden,RT,NL,2009,37.6
+Wooden,RT,NL,2010,32.5
+Wooden,RT,NL,2011,30.5
+Wooden,RT,NL,2012,29.3
+Wooden,RT,NL,2013,21.8
+Wooden,RT,NL,2014,25.1
+Wooden,RT,NL,2015,48.2
+Wooden,RT,NL,2016,51.5
+Wooden,RT,NL,2017,72.7
+Wooden,RT,NL,2018,76.6
+Wooden,RT,NL,2019,70.1
+Wooden,RT,NL,2020,68.1
+Wooden,RT,NO,2009,10.4
+Wooden,RT,NO,2010,13.6
+Wooden,RT,NO,2011,8.5
+Wooden,RT,NO,2012,8.2
+Wooden,RT,NO,2013,8.0
+Wooden,RT,NO,2014,8.2
+Wooden,RT,NO,2015,8.4
+Wooden,RT,NO,2016,8.5
+Wooden,RT,NO,2017,14.8
+Wooden,RT,NO,2018,14.8
+Wooden,RT,NO,2019,14.8
+Wooden,RT,NO,2020,17.7
+Wooden,RT,PL,2009,23.1
+Wooden,RT,PL,2010,21.0
+Wooden,RT,PL,2011,27.2
+Wooden,RT,PL,2012,28.5
+Wooden,RT,PL,2013,21.9
+Wooden,RT,PL,2014,48.6
+Wooden,RT,PL,2015,50.5
+Wooden,RT,PL,2016,40.8
+Wooden,RT,PL,2017,32.4
+Wooden,RT,PL,2018,29.1
+Wooden,RT,PL,2019,27.3
+Wooden,RT,PT,2009,65.3
+Wooden,RT,PT,2010,66.0
+Wooden,RT,PT,2011,78.0
+Wooden,RT,PT,2012,69.7
+Wooden,RT,PT,2013,98.5
+Wooden,RT,PT,2014,131.5
+Wooden,RT,PT,2015,86.5
+Wooden,RT,PT,2016,103.4
+Wooden,RT,PT,2017,89.9
+Wooden,RT,PT,2018,76.5
+Wooden,RT,PT,2019,91.1
+Wooden,RT,PT,2020,88.2
+Wooden,RT,RO,2009,13.2
+Wooden,RT,RO,2010,18.1
+Wooden,RT,RO,2011,32.5
+Wooden,RT,RO,2012,41.1
+Wooden,RT,RO,2013,28.9
+Wooden,RT,RO,2014,26.6
+Wooden,RT,RO,2015,28.8
+Wooden,RT,RO,2016,27.6
+Wooden,RT,RO,2017,30.0
+Wooden,RT,RO,2018,28.4
+Wooden,RT,RO,2019,24.8
+Wooden,RT,RO,2020,16.6
+Wooden,RT,SE,2009,18.6
+Wooden,RT,SE,2010,167.2
+Wooden,RT,SE,2011,136.1
+Wooden,RT,SE,2012,79.8
+Wooden,RT,SE,2013,59.9
+Wooden,RT,SE,2014,22.3
+Wooden,RT,SE,2015,21.5
+Wooden,RT,SE,2016,30.9
+Wooden,RT,SE,2017,50.4
+Wooden,RT,SE,2018,34.6
+Wooden,RT,SE,2019,29.8
+Wooden,RT,SE,2020,10.8
+Wooden,RT,SI,2009,11.0
+Wooden,RT,SI,2010,15.7
+Wooden,RT,SI,2011,15.6
+Wooden,RT,SI,2012,33.1
+Wooden,RT,SI,2013,15.1
+Wooden,RT,SI,2014,25.9
+Wooden,RT,SI,2015,19.3
+Wooden,RT,SI,2016,23.6
+Wooden,RT,SI,2017,32.2
+Wooden,RT,SI,2018,25.1
+Wooden,RT,SI,2019,22.2
+Wooden,RT,SI,2020,37.3
+Wooden,RT,SK,2009,8.7
+Wooden,RT,SK,2010,8.3
+Wooden,RT,SK,2011,26.3
+Wooden,RT,SK,2012,36.7
+Wooden,RT,SK,2013,36.4
+Wooden,RT,SK,2014,37.2
+Wooden,RT,SK,2015,42.1
+Wooden,RT,SK,2016,55.3
+Wooden,RT,SK,2017,47.2
+Wooden,RT,SK,2018,53.4
+Wooden,RT,SK,2019,55.7
+Wooden,RT,SK,2020,61.4
+Wooden,RT,UK,2009,76.9
+Wooden,RT,UK,2010,75.4
+Wooden,RT,UK,2011,58.7
+Wooden,RT,UK,2012,51.3
+Wooden,RT,UK,2013,42.3
+Wooden,RT,UK,2014,31.4
+Wooden,RT,UK,2015,28.6
+Wooden,RT,UK,2016,31.0
+Wooden,RT,UK,2017,30.8
+Wooden,RT,UK,2018,35.2
+Metallic,RT,AT,2009,61.4
+Metallic,RT,AT,2010,60.6
+Metallic,RT,AT,2011,62.1
+Metallic,RT,AT,2012,61.4
+Metallic,RT,AT,2013,87.5
+Metallic,RT,AT,2014,87.0
+Metallic,RT,AT,2015,87.2
+Metallic,RT,AT,2016,88.3
+Metallic,RT,AT,2017,85.6
+Metallic,RT,AT,2018,84.4
+Metallic,RT,AT,2019,84.7
+Metallic,RT,AT,2020,66.1
+Metallic,RT,BE,2009,95.4
+Metallic,RT,BE,2010,94.7
+Metallic,RT,BE,2011,97.4
+Metallic,RT,BE,2012,97.3
+Metallic,RT,BE,2013,97.0
+Metallic,RT,BE,2014,98.2
+Metallic,RT,BE,2015,98.1
+Metallic,RT,BE,2016,98.3
+Metallic,RT,BE,2017,98.5
+Metallic,RT,BE,2018,98.2
+Metallic,RT,BE,2019,95.0
+Metallic,RT,BE,2020,96.2
+Metallic,RT,BG,2009,50.5
+Metallic,RT,BG,2010,51.1
+Metallic,RT,BG,2011,69.9
+Metallic,RT,BG,2012,75.6
+Metallic,RT,BG,2013,69.8
+Metallic,RT,BG,2014,67.1
+Metallic,RT,BG,2015,69.2
+Metallic,RT,BG,2016,59.4
+Metallic,RT,BG,2017,73.4
+Metallic,RT,BG,2018,80.5
+Metallic,RT,BG,2019,75.9
+Metallic,RT,CY,2009,98.0
+Metallic,RT,CY,2010,116.7
+Metallic,RT,CY,2011,88.8
+Metallic,RT,CY,2012,98.7
+Metallic,RT,CY,2013,70.7
+Metallic,RT,CY,2014,97.4
+Metallic,RT,CY,2015,72.3
+Metallic,RT,CY,2016,84.1
+Metallic,RT,CY,2017,119.8
+Metallic,RT,CY,2018,117.5
+Metallic,RT,CY,2019,129.3
+Metallic,RT,CY,2020,172.5
+Metallic,RT,CZ,2009,52.0
+Metallic,RT,CZ,2010,64.0
+Metallic,RT,CZ,2011,68.0
+Metallic,RT,CZ,2012,69.2
+Metallic,RT,CZ,2013,58.5
+Metallic,RT,CZ,2014,65.0
+Metallic,RT,CZ,2015,58.6
+Metallic,RT,CZ,2016,63.4
+Metallic,RT,CZ,2017,67.8
+Metallic,RT,CZ,2018,67.6
+Metallic,RT,CZ,2019,65.0
+Metallic,RT,CZ,2020,73.2
+Metallic,RT,DE,2009,91.7
+Metallic,RT,DE,2010,92.7
+Metallic,RT,DE,2011,92.8
+Metallic,RT,DE,2012,92.3
+Metallic,RT,DE,2013,93.2
+Metallic,RT,DE,2014,92.5
+Metallic,RT,DE,2015,91.5
+Metallic,RT,DE,2016,91.6
+Metallic,RT,DE,2017,91.6
+Metallic,RT,DE,2018,91.7
+Metallic,RT,DE,2019,70.9
+Metallic,RT,DE,2020,83.4
+Metallic,RT,DK,2009,76.9
+Metallic,RT,DK,2010,76.9
+Metallic,RT,DK,2011,58.0
+Metallic,RT,DK,2012,51.8
+Metallic,RT,DK,2013,57.0
+Metallic,RT,DK,2014,71.3
+Metallic,RT,DK,2015,71.9
+Metallic,RT,DK,2016,87.7
+Metallic,RT,DK,2017,73.2
+Metallic,RT,DK,2018,80.0
+Metallic,RT,DK,2019,61.3
+Metallic,RT,DK,2020,70.0
+Metallic,RT,EE,2009,36.1
+Metallic,RT,EE,2010,60.9
+Metallic,RT,EE,2011,62.9
+Metallic,RT,EE,2012,65.3
+Metallic,RT,EE,2013,58.4
+Metallic,RT,EE,2014,78.0
+Metallic,RT,EE,2015,68.4
+Metallic,RT,EE,2016,66.1
+Metallic,RT,EE,2017,67.7
+Metallic,RT,EE,2018,81.7
+Metallic,RT,EE,2019,102.1
+Metallic,RT,EE,2020,99.5
+Metallic,RT,EL,2009,48.2
+Metallic,RT,EL,2010,41.9
+Metallic,RT,EL,2011,44.1
+Metallic,RT,EL,2012,38.2
+Metallic,RT,EL,2013,48.2
+Metallic,RT,EL,2014,58.8
+Metallic,RT,EL,2015,57.4
+Metallic,RT,EL,2016,61.7
+Metallic,RT,EL,2017,70.5
+Metallic,RT,EL,2018,71.7
+Metallic,RT,EL,2019,78.4
+Metallic,RT,ES,2009,70.6
+Metallic,RT,ES,2010,70.7
+Metallic,RT,ES,2011,75.2
+Metallic,RT,ES,2012,78.0
+Metallic,RT,ES,2013,80.9
+Metallic,RT,ES,2014,81.1
+Metallic,RT,ES,2015,79.9
+Metallic,RT,ES,2016,82.6
+Metallic,RT,ES,2017,85.1
+Metallic,RT,ES,2018,84.0
+Metallic,RT,ES,2019,84.0
+Metallic,RT,ES,2020,83.5
+Metallic,RT,EU27_2020,2009,72.6
+Metallic,RT,EU27_2020,2010,74.6
+Metallic,RT,EU27_2020,2011,75.7
+Metallic,RT,EU27_2020,2012,76.6
+Metallic,RT,EU27_2020,2013,77.8
+Metallic,RT,EU27_2020,2014,78.5
+Metallic,RT,EU27_2020,2015,79.3
+Metallic,RT,EU27_2020,2016,80.2
+Metallic,RT,EU27_2020,2017,80.6
+Metallic,RT,EU27_2020,2018,82.9
+Metallic,RT,EU27_2020,2019,77.5
+Metallic,RT,EU27_2020,2020,75.7
+Metallic,RT,FI,2009,84.3
+Metallic,RT,FI,2010,78.0
+Metallic,RT,FI,2011,79.9
+Metallic,RT,FI,2012,85.3
+Metallic,RT,FI,2013,81.8
+Metallic,RT,FI,2014,82.3
+Metallic,RT,FI,2015,83.5
+Metallic,RT,FI,2016,84.9
+Metallic,RT,FI,2017,87.8
+Metallic,RT,FI,2018,90.0
+Metallic,RT,FI,2019,85.1
+Metallic,RT,FI,2020,87.2
+Metallic,RT,FR,2009,64.3
+Metallic,RT,FR,2010,74.8
+Metallic,RT,FR,2011,73.6
+Metallic,RT,FR,2012,73.9
+Metallic,RT,FR,2013,75.8
+Metallic,RT,FR,2014,71.9
+Metallic,RT,FR,2015,77.2
+Metallic,RT,FR,2016,80.4
+Metallic,RT,FR,2017,84.9
+Metallic,RT,FR,2018,87.1
+Metallic,RT,FR,2019,83.4
+Metallic,RT,FR,2020,57.9
+Metallic,RT,HR,2012,12.5
+Metallic,RT,HR,2013,12.2
+Metallic,RT,HR,2014,11.6
+Metallic,RT,HR,2015,13.9
+Metallic,RT,HR,2016,16.4
+Metallic,RT,HR,2017,16.5
+Metallic,RT,HR,2018,20.5
+Metallic,RT,HR,2019,18.7
+Metallic,RT,HR,2020,17.5
+Metallic,RT,HU,2009,68.7
+Metallic,RT,HU,2010,75.7
+Metallic,RT,HU,2011,83.5
+Metallic,RT,HU,2012,80.8
+Metallic,RT,HU,2013,94.6
+Metallic,RT,HU,2014,83.5
+Metallic,RT,HU,2015,79.7
+Metallic,RT,HU,2016,71.8
+Metallic,RT,HU,2017,70.4
+Metallic,RT,HU,2018,71.2
+Metallic,RT,HU,2019,69.1
+Metallic,RT,HU,2020,71.4
+Metallic,RT,IE,2009,56.6
+Metallic,RT,IE,2010,59.5
+Metallic,RT,IE,2011,66.6
+Metallic,RT,IE,2012,75.8
+Metallic,RT,IE,2013,79.1
+Metallic,RT,IE,2014,80.5
+Metallic,RT,IE,2015,74.6
+Metallic,RT,IE,2016,70.1
+Metallic,RT,IE,2017,72.0
+Metallic,RT,IE,2018,64.1
+Metallic,RT,IE,2019,69.0
+Metallic,RT,IE,2020,70.8
+Metallic,RT,IS,2010,32.4
+Metallic,RT,IS,2011,29.0
+Metallic,RT,IS,2012,100.0
+Metallic,RT,IS,2013,67.0
+Metallic,RT,IS,2014,79.4
+Metallic,RT,IS,2015,76.4
+Metallic,RT,IS,2016,75.5
+Metallic,RT,IS,2017,63.7
+Metallic,RT,IS,2018,65.6
+Metallic,RT,IS,2019,63.8
+Metallic,RT,IS,2020,76.0
+Metallic,RT,IT,2009,74.6
+Metallic,RT,IT,2010,71.3
+Metallic,RT,IT,2011,71.0
+Metallic,RT,IT,2012,73.6
+Metallic,RT,IT,2013,74.5
+Metallic,RT,IT,2014,72.7
+Metallic,RT,IT,2015,73.0
+Metallic,RT,IT,2016,75.6
+Metallic,RT,IT,2017,72.0
+Metallic,RT,IT,2018,77.6
+Metallic,RT,IT,2019,79.2
+Metallic,RT,IT,2020,76.3
+Metallic,RT,LI,2009,100.0
+Metallic,RT,LI,2010,100.0
+Metallic,RT,LI,2011,100.0
+Metallic,RT,LI,2012,100.0
+Metallic,RT,LI,2013,100.0
+Metallic,RT,LI,2014,100.0
+Metallic,RT,LI,2015,100.0
+Metallic,RT,LI,2016,100.0
+Metallic,RT,LI,2017,100.0
+Metallic,RT,LI,2018,100.0
+Metallic,RT,LI,2019,100.0
+Metallic,RT,LI,2020,100.0
+Metallic,RT,LT,2009,62.9
+Metallic,RT,LT,2010,69.1
+Metallic,RT,LT,2011,68.4
+Metallic,RT,LT,2012,67.2
+Metallic,RT,LT,2013,65.6
+Metallic,RT,LT,2014,66.6
+Metallic,RT,LT,2015,74.9
+Metallic,RT,LT,2016,77.3
+Metallic,RT,LT,2017,78.3
+Metallic,RT,LT,2018,72.9
+Metallic,RT,LT,2019,77.5
+Metallic,RT,LT,2020,72.4
+Metallic,RT,LU,2009,84.2
+Metallic,RT,LU,2010,79.4
+Metallic,RT,LU,2011,82.4
+Metallic,RT,LU,2012,82.4
+Metallic,RT,LU,2013,83.6
+Metallic,RT,LU,2014,84.8
+Metallic,RT,LU,2015,91.5
+Metallic,RT,LU,2016,92.9
+Metallic,RT,LU,2017,92.4
+Metallic,RT,LU,2018,92.9
+Metallic,RT,LU,2019,93.8
+Metallic,RT,LU,2020,83.2
+Metallic,RT,LV,2009,51.7
+Metallic,RT,LV,2010,74.6
+Metallic,RT,LV,2011,74.3
+Metallic,RT,LV,2012,57.8
+Metallic,RT,LV,2013,56.6
+Metallic,RT,LV,2014,51.8
+Metallic,RT,LV,2015,51.0
+Metallic,RT,LV,2016,59.8
+Metallic,RT,LV,2017,59.0
+Metallic,RT,LV,2018,71.3
+Metallic,RT,LV,2019,72.0
+Metallic,RT,LV,2020,81.3
+Metallic,RT,MT,2009,58.9
+Metallic,RT,MT,2010,33.4
+Metallic,RT,MT,2011,30.2
+Metallic,RT,MT,2012,41.5
+Metallic,RT,MT,2013,34.3
+Metallic,RT,MT,2014,39.1
+Metallic,RT,MT,2015,25.1
+Metallic,RT,MT,2016,30.1
+Metallic,RT,MT,2017,42.3
+Metallic,RT,MT,2018,68.2
+Metallic,RT,MT,2019,19.6
+Metallic,RT,MT,2020,57.2
+Metallic,RT,NL,2009,86.6
+Metallic,RT,NL,2010,88.2
+Metallic,RT,NL,2011,91.2
+Metallic,RT,NL,2012,90.7
+Metallic,RT,NL,2013,93.1
+Metallic,RT,NL,2014,93.5
+Metallic,RT,NL,2015,94.6
+Metallic,RT,NL,2016,95.2
+Metallic,RT,NL,2017,94.9
+Metallic,RT,NL,2018,94.8
+Metallic,RT,NL,2019,95.6
+Metallic,RT,NL,2020,87.5
+Metallic,RT,NO,2009,75.6
+Metallic,RT,NO,2010,77.5
+Metallic,RT,NO,2011,78.9
+Metallic,RT,NO,2012,79.4
+Metallic,RT,NO,2013,69.9
+Metallic,RT,NO,2014,77.8
+Metallic,RT,NO,2015,81.8
+Metallic,RT,NO,2016,83.5
+Metallic,RT,NO,2017,89.5
+Metallic,RT,NO,2018,91.5
+Metallic,RT,NO,2019,88.3
+Metallic,RT,NO,2020,93.9
+Metallic,RT,PL,2009,43.1
+Metallic,RT,PL,2010,45.9
+Metallic,RT,PL,2011,45.1
+Metallic,RT,PL,2012,46.9
+Metallic,RT,PL,2013,34.5
+Metallic,RT,PL,2014,52.9
+Metallic,RT,PL,2015,62.0
+Metallic,RT,PL,2016,59.4
+Metallic,RT,PL,2017,62.6
+Metallic,RT,PL,2018,75.5
+Metallic,RT,PL,2019,84.2
+Metallic,RT,PT,2009,64.4
+Metallic,RT,PT,2010,72.0
+Metallic,RT,PT,2011,71.0
+Metallic,RT,PT,2012,72.3
+Metallic,RT,PT,2013,75.7
+Metallic,RT,PT,2014,58.3
+Metallic,RT,PT,2015,63.6
+Metallic,RT,PT,2016,42.9
+Metallic,RT,PT,2017,43.6
+Metallic,RT,PT,2018,42.5
+Metallic,RT,PT,2019,45.8
+Metallic,RT,PT,2020,46.3
+Metallic,RT,RO,2009,56.4
+Metallic,RT,RO,2010,65.7
+Metallic,RT,RO,2011,62.3
+Metallic,RT,RO,2012,55.5
+Metallic,RT,RO,2013,52.8
+Metallic,RT,RO,2014,64.2
+Metallic,RT,RO,2015,64.1
+Metallic,RT,RO,2016,62.1
+Metallic,RT,RO,2017,60.4
+Metallic,RT,RO,2018,58.7
+Metallic,RT,RO,2019,49.6
+Metallic,RT,RO,2020,51.1
+Metallic,RT,SE,2009,77.7
+Metallic,RT,SE,2010,75.7
+Metallic,RT,SE,2011,75.4
+Metallic,RT,SE,2012,74.4
+Metallic,RT,SE,2013,77.4
+Metallic,RT,SE,2014,76.5
+Metallic,RT,SE,2015,77.7
+Metallic,RT,SE,2016,81.5
+Metallic,RT,SE,2017,84.5
+Metallic,RT,SE,2018,82.8
+Metallic,RT,SE,2019,81.0
+Metallic,RT,SE,2020,83.7
+Metallic,RT,SI,2009,26.9
+Metallic,RT,SI,2010,32.9
+Metallic,RT,SI,2011,40.4
+Metallic,RT,SI,2012,41.6
+Metallic,RT,SI,2013,58.4
+Metallic,RT,SI,2014,50.8
+Metallic,RT,SI,2015,62.8
+Metallic,RT,SI,2016,71.2
+Metallic,RT,SI,2017,71.1
+Metallic,RT,SI,2018,64.3
+Metallic,RT,SI,2019,68.2
+Metallic,RT,SI,2020,59.2
+Metallic,RT,SK,2009,61.3
+Metallic,RT,SK,2010,40.6
+Metallic,RT,SK,2011,58.4
+Metallic,RT,SK,2012,67.8
+Metallic,RT,SK,2013,68.9
+Metallic,RT,SK,2014,70.8
+Metallic,RT,SK,2015,73.5
+Metallic,RT,SK,2016,80.4
+Metallic,RT,SK,2017,86.1
+Metallic,RT,SK,2018,75.4
+Metallic,RT,SK,2019,72.4
+Metallic,RT,SK,2020,71.1
+Metallic,RT,UK,2009,54.9
+Metallic,RT,UK,2010,55.9
+Metallic,RT,UK,2011,55.3
+Metallic,RT,UK,2012,52.1
+Metallic,RT,UK,2013,57.4
+Metallic,RT,UK,2014,58.2
+Metallic,RT,UK,2015,59.8
+Metallic,RT,UK,2016,68.7
+Metallic,RT,UK,2017,71.1
+Metallic,RT,UK,2018,65.2
+Glass,RT,AT,2009,84.8
+Glass,RT,AT,2010,83.0
+Glass,RT,AT,2011,82.8
+Glass,RT,AT,2012,82.9
+Glass,RT,AT,2013,84.8
+Glass,RT,AT,2014,84.5
+Glass,RT,AT,2015,85.6
+Glass,RT,AT,2016,85.2
+Glass,RT,AT,2017,84.1
+Glass,RT,AT,2018,83.9
+Glass,RT,AT,2019,81.1
+Glass,RT,AT,2020,81.6
+Glass,RT,BE,2009,100.0
+Glass,RT,BE,2010,100.0
+Glass,RT,BE,2011,100.0
+Glass,RT,BE,2012,100.0
+Glass,RT,BE,2013,100.0
+Glass,RT,BE,2014,100.0
+Glass,RT,BE,2015,100.0
+Glass,RT,BE,2016,100.0
+Glass,RT,BE,2017,100.0
+Glass,RT,BE,2018,100.0
+Glass,RT,BE,2019,100.0
+Glass,RT,BE,2020,96.9
+Glass,RT,BG,2009,39.7
+Glass,RT,BG,2010,51.2
+Glass,RT,BG,2011,59.5
+Glass,RT,BG,2012,60.5
+Glass,RT,BG,2013,61.2
+Glass,RT,BG,2014,63.2
+Glass,RT,BG,2015,62.9
+Glass,RT,BG,2016,69.8
+Glass,RT,BG,2017,64.0
+Glass,RT,BG,2018,77.6
+Glass,RT,BG,2019,61.7
+Glass,RT,CY,2009,19.9
+Glass,RT,CY,2010,25.2
+Glass,RT,CY,2011,33.8
+Glass,RT,CY,2012,32.4
+Glass,RT,CY,2013,32.1
+Glass,RT,CY,2014,32.2
+Glass,RT,CY,2015,33.2
+Glass,RT,CY,2016,39.4
+Glass,RT,CY,2017,42.4
+Glass,RT,CY,2018,46.3
+Glass,RT,CY,2019,45.3
+Glass,RT,CY,2020,34.8
+Glass,RT,CZ,2009,71.2
+Glass,RT,CZ,2010,73.1
+Glass,RT,CZ,2011,74.4
+Glass,RT,CZ,2012,81.1
+Glass,RT,CZ,2013,75.0
+Glass,RT,CZ,2014,71.6
+Glass,RT,CZ,2015,72.6
+Glass,RT,CZ,2016,72.8
+Glass,RT,CZ,2017,72.3
+Glass,RT,CZ,2018,74.8
+Glass,RT,CZ,2019,76.4
+Glass,RT,CZ,2020,83.6
+Glass,RT,DE,2009,82.5
+Glass,RT,DE,2010,86.1
+Glass,RT,DE,2011,88.4
+Glass,RT,DE,2012,84.7
+Glass,RT,DE,2013,88.7
+Glass,RT,DE,2014,89.0
+Glass,RT,DE,2015,85.2
+Glass,RT,DE,2016,85.5
+Glass,RT,DE,2017,84.4
+Glass,RT,DE,2018,83.0
+Glass,RT,DE,2019,78.0
+Glass,RT,DE,2020,79.7
+Glass,RT,DK,2009,174.2
+Glass,RT,DK,2010,174.2
+Glass,RT,DK,2011,85.9
+Glass,RT,DK,2012,93.6
+Glass,RT,DK,2013,93.0
+Glass,RT,DK,2014,83.6
+Glass,RT,DK,2015,79.5
+Glass,RT,DK,2016,85.0
+Glass,RT,DK,2017,94.9
+Glass,RT,DK,2018,82.4
+Glass,RT,DK,2019,71.1
+Glass,RT,DK,2020,84.3
+Glass,RT,EE,2009,89.9
+Glass,RT,EE,2010,43.4
+Glass,RT,EE,2011,65.4
+Glass,RT,EE,2012,70.7
+Glass,RT,EE,2013,71.5
+Glass,RT,EE,2014,72.8
+Glass,RT,EE,2015,62.1
+Glass,RT,EE,2016,63.4
+Glass,RT,EE,2017,61.0
+Glass,RT,EE,2018,65.4
+Glass,RT,EE,2019,105.0
+Glass,RT,EE,2020,77.8
+Glass,RT,EL,2009,15.2
+Glass,RT,EL,2010,21.4
+Glass,RT,EL,2011,36.9
+Glass,RT,EL,2012,54.7
+Glass,RT,EL,2013,28.0
+Glass,RT,EL,2014,21.5
+Glass,RT,EL,2015,29.4
+Glass,RT,EL,2016,36.9
+Glass,RT,EL,2017,36.0
+Glass,RT,EL,2018,32.9
+Glass,RT,EL,2019,29.9
+Glass,RT,ES,2009,56.5
+Glass,RT,ES,2010,59.8
+Glass,RT,ES,2011,64.4
+Glass,RT,ES,2012,64.2
+Glass,RT,ES,2013,67.4
+Glass,RT,ES,2014,69.7
+Glass,RT,ES,2015,70.4
+Glass,RT,ES,2016,71.8
+Glass,RT,ES,2017,72.2
+Glass,RT,ES,2018,76.8
+Glass,RT,ES,2019,79.8
+Glass,RT,ES,2020,72.5
+Glass,RT,EU27_2020,2009,68.8
+Glass,RT,EU27_2020,2010,71.2
+Glass,RT,EU27_2020,2011,72.3
+Glass,RT,EU27_2020,2012,73.1
+Glass,RT,EU27_2020,2013,73.4
+Glass,RT,EU27_2020,2014,75.3
+Glass,RT,EU27_2020,2015,74.2
+Glass,RT,EU27_2020,2016,75.3
+Glass,RT,EU27_2020,2017,75.8
+Glass,RT,EU27_2020,2018,75.8
+Glass,RT,EU27_2020,2019,75.6
+Glass,RT,EU27_2020,2020,75.9
+Glass,RT,FI,2009,45.1
+Glass,RT,FI,2010,61.3
+Glass,RT,FI,2011,87.9
+Glass,RT,FI,2012,77.6
+Glass,RT,FI,2013,76.8
+Glass,RT,FI,2014,81.4
+Glass,RT,FI,2015,78.4
+Glass,RT,FI,2016,89.8
+Glass,RT,FI,2017,91.8
+Glass,RT,FI,2018,99.3
+Glass,RT,FI,2019,97.4
+Glass,RT,FI,2020,97.3
+Glass,RT,FR,2009,68.1
+Glass,RT,FR,2010,69.8
+Glass,RT,FR,2011,70.7
+Glass,RT,FR,2012,73.5
+Glass,RT,FR,2013,73.9
+Glass,RT,FR,2014,74.6
+Glass,RT,FR,2015,74.8
+Glass,RT,FR,2016,76.1
+Glass,RT,FR,2017,77.9
+Glass,RT,FR,2018,76.2
+Glass,RT,FR,2019,77.1
+Glass,RT,FR,2020,78.7
+Glass,RT,HR,2012,62.8
+Glass,RT,HR,2013,65.4
+Glass,RT,HR,2014,63.5
+Glass,RT,HR,2015,65.2
+Glass,RT,HR,2016,56.4
+Glass,RT,HR,2017,57.0
+Glass,RT,HR,2018,60.5
+Glass,RT,HR,2019,51.3
+Glass,RT,HR,2020,54.2
+Glass,RT,HU,2009,24.4
+Glass,RT,HU,2010,35.4
+Glass,RT,HU,2011,41.2
+Glass,RT,HU,2012,34.2
+Glass,RT,HU,2013,32.4
+Glass,RT,HU,2014,36.3
+Glass,RT,HU,2015,50.5
+Glass,RT,HU,2016,34.6
+Glass,RT,HU,2017,34.2
+Glass,RT,HU,2018,35.3
+Glass,RT,HU,2019,29.3
+Glass,RT,HU,2020,37.8
+Glass,RT,IE,2009,75.8
+Glass,RT,IE,2010,77.8
+Glass,RT,IE,2011,81.2
+Glass,RT,IE,2012,85.5
+Glass,RT,IE,2013,80.0
+Glass,RT,IE,2014,86.8
+Glass,RT,IE,2015,87.6
+Glass,RT,IE,2016,86.3
+Glass,RT,IE,2017,84.2
+Glass,RT,IE,2018,82.2
+Glass,RT,IE,2019,83.7
+Glass,RT,IE,2020,84.2
+Glass,RT,IS,2010,0.0
+Glass,RT,IS,2011,0.0
+Glass,RT,IS,2012,0.0
+Glass,RT,IS,2013,0.0
+Glass,RT,IS,2014,0.0
+Glass,RT,IS,2015,0.3
+Glass,RT,IS,2016,0.0
+Glass,RT,IS,2017,0.0
+Glass,RT,IS,2018,0.0
+Glass,RT,IS,2019,0.0
+Glass,RT,IS,2020,0.0
+Glass,RT,IT,2009,66.0
+Glass,RT,IT,2010,68.3
+Glass,RT,IT,2011,69.2
+Glass,RT,IT,2012,70.9
+Glass,RT,IT,2013,70.8
+Glass,RT,IT,2014,70.3
+Glass,RT,IT,2015,70.9
+Glass,RT,IT,2016,70.8
+Glass,RT,IT,2017,72.8
+Glass,RT,IT,2018,73.4
+Glass,RT,IT,2019,77.3
+Glass,RT,IT,2020,78.6
+Glass,RT,LI,2009,63.4
+Glass,RT,LI,2010,62.1
+Glass,RT,LI,2011,64.1
+Glass,RT,LI,2012,64.1
+Glass,RT,LI,2013,60.8
+Glass,RT,LI,2014,65.1
+Glass,RT,LI,2015,72.9
+Glass,RT,LI,2016,70.1
+Glass,RT,LI,2017,73.2
+Glass,RT,LI,2018,75.5
+Glass,RT,LI,2019,72.4
+Glass,RT,LI,2020,79.9
+Glass,RT,LT,2009,76.1
+Glass,RT,LT,2010,66.9
+Glass,RT,LT,2011,74.1
+Glass,RT,LT,2012,72.2
+Glass,RT,LT,2013,54.8
+Glass,RT,LT,2014,60.5
+Glass,RT,LT,2015,74.3
+Glass,RT,LT,2016,71.0
+Glass,RT,LT,2017,45.6
+Glass,RT,LT,2018,58.2
+Glass,RT,LT,2019,57.3
+Glass,RT,LT,2020,63.4
+Glass,RT,LU,2009,92.5
+Glass,RT,LU,2010,93.8
+Glass,RT,LU,2011,94.4
+Glass,RT,LU,2012,94.6
+Glass,RT,LU,2013,94.8
+Glass,RT,LU,2014,94.5
+Glass,RT,LU,2015,97.0
+Glass,RT,LU,2016,97.5
+Glass,RT,LU,2017,97.5
+Glass,RT,LU,2018,98.3
+Glass,RT,LU,2019,98.4
+Glass,RT,LU,2020,99.0
+Glass,RT,LV,2009,44.4
+Glass,RT,LV,2010,47.6
+Glass,RT,LV,2011,51.6
+Glass,RT,LV,2012,55.1
+Glass,RT,LV,2013,55.1
+Glass,RT,LV,2014,60.6
+Glass,RT,LV,2015,60.5
+Glass,RT,LV,2016,64.0
+Glass,RT,LV,2017,65.5
+Glass,RT,LV,2018,68.8
+Glass,RT,LV,2019,69.0
+Glass,RT,LV,2020,70.1
+Glass,RT,MT,2009,8.7
+Glass,RT,MT,2010,5.8
+Glass,RT,MT,2011,17.2
+Glass,RT,MT,2012,21.3
+Glass,RT,MT,2013,49.1
+Glass,RT,MT,2014,31.2
+Glass,RT,MT,2015,20.3
+Glass,RT,MT,2016,29.5
+Glass,RT,MT,2017,28.6
+Glass,RT,MT,2018,41.4
+Glass,RT,MT,2019,43.9
+Glass,RT,MT,2020,62.5
+Glass,RT,NL,2009,91.8
+Glass,RT,NL,2010,91.3
+Glass,RT,NL,2011,82.8
+Glass,RT,NL,2012,71.3
+Glass,RT,NL,2013,79.8
+Glass,RT,NL,2014,80.1
+Glass,RT,NL,2015,82.7
+Glass,RT,NL,2016,84.4
+Glass,RT,NL,2017,86.2
+Glass,RT,NL,2018,85.7
+Glass,RT,NL,2019,86.6
+Glass,RT,NL,2020,77.1
+Glass,RT,NO,2009,85.7
+Glass,RT,NO,2010,91.8
+Glass,RT,NO,2011,87.4
+Glass,RT,NO,2012,87.6
+Glass,RT,NO,2013,86.2
+Glass,RT,NO,2014,87.8
+Glass,RT,NO,2015,86.8
+Glass,RT,NO,2016,89.4
+Glass,RT,NO,2017,83.5
+Glass,RT,NO,2018,89.4
+Glass,RT,NO,2019,97.7
+Glass,RT,NO,2020,90.4
+Glass,RT,PL,2009,41.9
+Glass,RT,PL,2010,45.6
+Glass,RT,PL,2011,45.0
+Glass,RT,PL,2012,51.2
+Glass,RT,PL,2013,43.6
+Glass,RT,PL,2014,60.2
+Glass,RT,PL,2015,57.2
+Glass,RT,PL,2016,59.6
+Glass,RT,PL,2017,63.0
+Glass,RT,PL,2018,61.8
+Glass,RT,PL,2019,67.1
+Glass,RT,PT,2009,55.3
+Glass,RT,PT,2010,56.6
+Glass,RT,PT,2011,59.7
+Glass,RT,PT,2012,59.6
+Glass,RT,PT,2013,55.7
+Glass,RT,PT,2014,56.4
+Glass,RT,PT,2015,55.2
+Glass,RT,PT,2016,58.5
+Glass,RT,PT,2017,49.0
+Glass,RT,PT,2018,51.3
+Glass,RT,PT,2019,56.1
+Glass,RT,PT,2020,52.0
+Glass,RT,RO,2009,48.2
+Glass,RT,RO,2010,56.8
+Glass,RT,RO,2011,60.0
+Glass,RT,RO,2012,66.3
+Glass,RT,RO,2013,49.2
+Glass,RT,RO,2014,54.2
+Glass,RT,RO,2015,41.1
+Glass,RT,RO,2016,64.1
+Glass,RT,RO,2017,63.0
+Glass,RT,RO,2018,61.1
+Glass,RT,RO,2019,42.9
+Glass,RT,RO,2020,42.7
+Glass,RT,SE,2009,90.4
+Glass,RT,SE,2010,92.9
+Glass,RT,SE,2011,91.9
+Glass,RT,SE,2012,88.2
+Glass,RT,SE,2013,89.0
+Glass,RT,SE,2014,94.7
+Glass,RT,SE,2015,93.6
+Glass,RT,SE,2016,92.8
+Glass,RT,SE,2017,93.0
+Glass,RT,SE,2018,92.7
+Glass,RT,SE,2019,93.1
+Glass,RT,SE,2020,93.5
+Glass,RT,SI,2009,52.4
+Glass,RT,SI,2010,75.1
+Glass,RT,SI,2011,82.3
+Glass,RT,SI,2012,87.3
+Glass,RT,SI,2013,85.9
+Glass,RT,SI,2014,99.3
+Glass,RT,SI,2015,98.5
+Glass,RT,SI,2016,100.2
+Glass,RT,SI,2017,98.5
+Glass,RT,SI,2018,104.0
+Glass,RT,SI,2019,99.5
+Glass,RT,SI,2020,98.4
+Glass,RT,SK,2009,51.6
+Glass,RT,SK,2010,55.7
+Glass,RT,SK,2011,63.9
+Glass,RT,SK,2012,69.4
+Glass,RT,SK,2013,72.9
+Glass,RT,SK,2014,67.7
+Glass,RT,SK,2015,66.2
+Glass,RT,SK,2016,62.2
+Glass,RT,SK,2017,68.7
+Glass,RT,SK,2018,68.6
+Glass,RT,SK,2019,69.7
+Glass,RT,SK,2020,74.4
+Glass,RT,UK,2009,61.7
+Glass,RT,UK,2010,60.7
+Glass,RT,UK,2011,63.9
+Glass,RT,UK,2012,67.8
+Glass,RT,UK,2013,68.3
+Glass,RT,UK,2014,67.2
+Glass,RT,UK,2015,65.7
+Glass,RT,UK,2016,66.9
+Glass,RT,UK,2017,67.6
+Glass,RT,UK,2018,68.5
